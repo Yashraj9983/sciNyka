@@ -1,0 +1,3145 @@
+{
+    "appReducer": {
+        "pageType": null,
+        "statusCode": 200,
+        "storeId": "",
+        "configFlagsFetched": false,
+        "configFlags": {
+            "isSmartLockActive": false,
+            "mobileMapping": {
+                "sendOtpCaptcha": false,
+                "verifyOtpCaptcha": false
+            }
+        },
+        "run": 100,
+        "client": {
+            "device": "WEB"
+        },
+        "breadCrumb": [
+            {
+                "key": "Home",
+                "value": "/"
+            },
+            {
+                "key": "Makeup",
+                "value": "makeup/c/12"
+            },
+            {
+                "key": "Eyes",
+                "value": "makeup/eyes/c/14"
+            },
+            {
+                "key": "Kajal",
+                "value": "makeup/eyes/kajal/c/687"
+            }
+        ],
+        "isSliderOpen": false,
+        "showBreadcrumb": false,
+        "region": {
+            "regionHeader": "MH",
+            "regionHeaderCountry": "IN"
+        }
+    },
+    "auth": {
+        "fetching": false,
+        "dataFetched": false,
+        "isFetchingError": false,
+        "fetchedOverNetwork": false,
+        "user": {
+            "cartItemsCount": 0,
+            "email": "",
+            "firstName": "",
+            "formKey": "",
+            "groupId": "",
+            "id": "",
+            "isLoyal": false,
+            "isPro": false,
+            "lastName": "",
+            "rewardPoints": 0,
+            "userName": "",
+            "wishlist": []
+        }
+    },
+    "dataLayer": {
+        "pageName": "Nykaa : product page: lakme-eyeconic-kajal-twin-pack/p/3982605",
+        "pageType": "Product Detail Page",
+        "product": {
+            "categoryLevels": {
+                "0": "12",
+                "1": "14",
+                "2": "687"
+            },
+            "id": "3982605",
+            "image": "https://images-static.nykaa.com/media/catalog/product/6/f/6fc082bLAKME00000332_001new.jpg",
+            "inStock": true,
+            "mrp": 350,
+            "name": "Lakme Eyeconic Kajal - Twin Pack",
+            "offerPrice": 315,
+            "sku": "LAKME00000332",
+            "brandName": "Lakme",
+            "packSize": "0.7gm",
+            "rating": 4.5,
+            "productType": "simple",
+            "slug": "lakme-eyeconic-kajal-twin-pack/p/3982605"
+        },
+        "hasOffer": "no"
+    },
+    "productPage": {
+        "loading": false,
+        "isFetchingError": false,
+        "banners": [
+            {
+                "inventoryName": "nykaa.pd-page-banner-all-v2",
+                "inventoryId": "64528df238d698aca91e82f2",
+                "inventoryPageType": "pd-page",
+                "inventoryPageSection": "pd-page-banner-all-v2",
+                "inventoryPageData": "all",
+                "visibility": "Global",
+                "position": 1,
+                "personalization": "full",
+                "widgetData": {
+                    "id": "64528e98e7de9ce388bbc65d",
+                    "widgetType": "CAROUSEL_V2",
+                    "positionInParent": 1,
+                    "inventoryName": "nykaa.pd-page-banner-all-v2",
+                    "params": {
+                        "title": "",
+                        "delayTimer": 5000,
+                        "autoScroll": "True",
+                        "childBkgColor": "",
+                        "bkgColor": "",
+                        "carouselType": "edgetoedge",
+                        "titleAlign": "center",
+                        "description": "",
+                        "positionIndicatorFlag": "on",
+                        "styles": [
+                            {
+                                "name": "banner",
+                                "style": {
+                                    "border": {
+                                        "color": "#0000FF",
+                                        "width": {
+                                            "app": 0,
+                                            "desktop": "0px",
+                                            "web": "0px"
+                                        }
+                                    },
+                                    "cornerRadius": {
+                                        "app": "0",
+                                        "desktop": "0",
+                                        "web": "0"
+                                    },
+                                    "divider": {
+                                        "divider_color": "#16001325",
+                                        "divider_visibility": "off",
+                                        "margin": {
+                                            "bottom": {
+                                                "app": 0,
+                                                "desktop": "0px",
+                                                "web": "0px"
+                                            },
+                                            "left": {
+                                                "app": 0,
+                                                "desktop": "0px",
+                                                "web": "0px"
+                                            },
+                                            "right": {
+                                                "app": 0,
+                                                "desktop": "0px",
+                                                "web": "0px"
+                                            },
+                                            "top": {
+                                                "app": 0,
+                                                "desktop": "0px",
+                                                "web": "0px"
+                                            }
+                                        }
+                                    },
+                                    "individualCornerRadius": {
+                                        "bottomLeft": {
+                                            "app": 0,
+                                            "desktop": "0",
+                                            "web": "0"
+                                        },
+                                        "bottomRight": {
+                                            "app": 0,
+                                            "desktop": "0",
+                                            "web": "0"
+                                        },
+                                        "topLeft": {
+                                            "app": 0,
+                                            "desktop": "0",
+                                            "web": "0"
+                                        },
+                                        "topRight": {
+                                            "app": 0,
+                                            "desktop": "0",
+                                            "web": "0"
+                                        }
+                                    },
+                                    "isRounded": false
+                                }
+                            },
+                            {
+                                "name": "bannerCallout",
+                                "style": {
+                                    "bkg": {
+                                        "alpha": 0.8,
+                                        "colorEnd": "#ffffff",
+                                        "colorStart": "#ffffff",
+                                        "degree": 0,
+                                        "type": "color"
+                                    },
+                                    "interItem1": {
+                                        "app": 8,
+                                        "desktop": "0.5rem",
+                                        "web": "0.5rem"
+                                    },
+                                    "interItem2": {
+                                        "app": 8,
+                                        "desktop": "0.5rem",
+                                        "web": "0.5rem"
+                                    },
+                                    "padding": {
+                                        "bottom": {
+                                            "app": 8,
+                                            "desktop": "0rem",
+                                            "web": "0rem"
+                                        },
+                                        "left": {
+                                            "app": 8,
+                                            "desktop": "0rem",
+                                            "web": "0rem"
+                                        },
+                                        "right": {
+                                            "app": 8,
+                                            "desktop": "0rem",
+                                            "web": "0rem"
+                                        },
+                                        "top": {
+                                            "app": 8,
+                                            "desktop": "0rem",
+                                            "web": "0rem"
+                                        }
+                                    },
+                                    "text": {
+                                        "alignment": "center",
+                                        "color": "#001325",
+                                        "fontFamily": "Inter",
+                                        "fontWeight": 500,
+                                        "letterSpacing": {
+                                            "app": 0,
+                                            "desktop": "0rem",
+                                            "web": "0rem"
+                                        },
+                                        "lineSpacing": {
+                                            "app": 0,
+                                            "desktop": "0rem",
+                                            "web": "0rem"
+                                        },
+                                        "maxLines": {
+                                            "app": 1,
+                                            "desktop": 1,
+                                            "web": 1
+                                        },
+                                        "size": {
+                                            "app": 12,
+                                            "desktop": "0.75rem",
+                                            "web": "0.75rem"
+                                        }
+                                    },
+                                    "textCallout2": {
+                                        "alignment": "center",
+                                        "color": "#001325",
+                                        "fontFamily": "Inter",
+                                        "fontWeight": 500,
+                                        "letterSpacing": {
+                                            "app": 0,
+                                            "desktop": "0rem",
+                                            "web": "0rem"
+                                        },
+                                        "lineSpacing": {
+                                            "app": 0,
+                                            "desktop": "0rem",
+                                            "web": "0rem"
+                                        },
+                                        "maxLines": {
+                                            "app": 1,
+                                            "desktop": 1,
+                                            "web": 1
+                                        },
+                                        "size": {
+                                            "app": 12,
+                                            "desktop": "0.75rem",
+                                            "web": "0.75rem"
+                                        }
+                                    },
+                                    "textCallout3": {
+                                        "alignment": "center",
+                                        "color": "#001325",
+                                        "fontFamily": "Inter",
+                                        "fontWeight": 500,
+                                        "letterSpacing": {
+                                            "app": 0,
+                                            "desktop": "0rem",
+                                            "web": "0rem"
+                                        },
+                                        "lineSpacing": {
+                                            "app": 0,
+                                            "desktop": "0rem",
+                                            "web": "0rem"
+                                        },
+                                        "maxLines": {
+                                            "app": 1,
+                                            "desktop": 1,
+                                            "web": 1
+                                        },
+                                        "size": {
+                                            "app": 12,
+                                            "desktop": "0.75rem",
+                                            "web": "0.75rem"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "name": "bannerTag",
+                                "style": {
+                                    "bkg": {
+                                        "alpha": 0.7,
+                                        "colorEnd": "#111314",
+                                        "colorStart": "#111314",
+                                        "degree": 0,
+                                        "type": "color"
+                                    },
+                                    "border": {
+                                        "color": "#ffffff",
+                                        "width": {
+                                            "app": 0,
+                                            "desktop": "0rem",
+                                            "web": "0rem"
+                                        }
+                                    },
+                                    "cornerRadius": {
+                                        "app": 0,
+                                        "desktop": "0rem",
+                                        "web": "0rem"
+                                    },
+                                    "margin": {
+                                        "bottom": {
+                                            "app": 0,
+                                            "desktop": "0rem",
+                                            "web": "0rem"
+                                        },
+                                        "left": {
+                                            "app": 0,
+                                            "desktop": "0rem",
+                                            "web": "0rem"
+                                        },
+                                        "right": {
+                                            "app": 0,
+                                            "desktop": "0rem",
+                                            "web": "0rem"
+                                        },
+                                        "top": {
+                                            "app": 0,
+                                            "desktop": "0rem",
+                                            "web": "0rem"
+                                        }
+                                    },
+                                    "maxLines": {
+                                        "app": 1,
+                                        "desktop": 1,
+                                        "web": 1
+                                    },
+                                    "padding": {
+                                        "bottom": {
+                                            "app": 0,
+                                            "desktop": "0rem",
+                                            "web": "0rem"
+                                        },
+                                        "left": {
+                                            "app": 0,
+                                            "desktop": "0rem",
+                                            "web": "0rem"
+                                        },
+                                        "right": {
+                                            "app": 0,
+                                            "desktop": "0rem",
+                                            "web": "0rem"
+                                        },
+                                        "top": {
+                                            "app": 0,
+                                            "desktop": "0rem",
+                                            "web": "0rem"
+                                        }
+                                    },
+                                    "text": {
+                                        "alignment": "center",
+                                        "color": "#ffffff",
+                                        "fontFamily": "Inter",
+                                        "fontWeight": 400,
+                                        "letterSpacing": {
+                                            "app": 0,
+                                            "desktop": "0px",
+                                            "web": "0px"
+                                        },
+                                        "lineSpacing": {
+                                            "app": 0,
+                                            "desktop": "0px",
+                                            "web": "0px"
+                                        },
+                                        "maxLines": {
+                                            "app": 1,
+                                            "desktop": 1,
+                                            "web": 1
+                                        },
+                                        "size": {
+                                            "app": 10,
+                                            "desktop": "0.625rem",
+                                            "web": "0.625rem"
+                                        }
+                                    },
+                                    "textTimer": {
+                                        "alignment": "center",
+                                        "color": "#ffffff",
+                                        "fontFamily": "Inter",
+                                        "fontWeight": 600,
+                                        "letterSpacing": {
+                                            "app": 0,
+                                            "desktop": "0px",
+                                            "web": "0px"
+                                        },
+                                        "lineSpacing": {
+                                            "app": 0,
+                                            "desktop": "0px",
+                                            "web": "0px"
+                                        },
+                                        "maxLines": {
+                                            "app": 1,
+                                            "desktop": 1,
+                                            "web": 1
+                                        },
+                                        "size": {
+                                            "app": 10,
+                                            "desktop": "0.625rem",
+                                            "web": "0.625rem"
+                                        }
+                                    },
+                                    "timerAlignment": "right"
+                                }
+                            },
+                            {
+                                "name": "bannerLogo",
+                                "style": {
+                                    "alignment": "left",
+                                    "bkg": {
+                                        "alpha": 0,
+                                        "color": "#ffffff",
+                                        "colorEnd": "#aaaaaa",
+                                        "colorStart": "#ffffff",
+                                        "degree": 0,
+                                        "type": "color"
+                                    },
+                                    "borderColor": "#00000000",
+                                    "cornerRadius": {
+                                        "app": 0,
+                                        "desktop": "0rem",
+                                        "web": "0rem"
+                                    },
+                                    "margin": {
+                                        "bottom": {
+                                            "app": 0,
+                                            "desktop": "0rem",
+                                            "web": "0rem"
+                                        },
+                                        "left": {
+                                            "app": 0,
+                                            "desktop": "0rem",
+                                            "web": "0rem"
+                                        },
+                                        "right": {
+                                            "app": 0,
+                                            "desktop": "0rem",
+                                            "web": "0rem"
+                                        },
+                                        "top": {
+                                            "app": 0,
+                                            "desktop": "0rem",
+                                            "web": "0rem"
+                                        }
+                                    },
+                                    "padding": {
+                                        "bottom": {
+                                            "app": 0,
+                                            "desktop": "0rem",
+                                            "web": "0rem"
+                                        },
+                                        "left": {
+                                            "app": 0,
+                                            "desktop": "0rem",
+                                            "web": "0rem"
+                                        },
+                                        "right": {
+                                            "app": 0,
+                                            "desktop": "0rem",
+                                            "web": "0rem"
+                                        },
+                                        "top": {
+                                            "app": 0,
+                                            "desktop": "0rem",
+                                            "web": "0rem"
+                                        }
+                                    },
+                                    "width": "33"
+                                }
+                            },
+                            {
+                                "name": "bannerTitle",
+                                "style": {
+                                    "margin": {
+                                        "bottom": {
+                                            "app": 0,
+                                            "desktop": "0px",
+                                            "web": "0px"
+                                        },
+                                        "left": {
+                                            "app": 0,
+                                            "desktop": "0px",
+                                            "web": "0px"
+                                        },
+                                        "right": {
+                                            "app": 0,
+                                            "desktop": "0px",
+                                            "web": "0px"
+                                        },
+                                        "top": {
+                                            "app": 0,
+                                            "desktop": "0px",
+                                            "web": "0px"
+                                        }
+                                    },
+                                    "padding": {
+                                        "bottom": {
+                                            "app": 0,
+                                            "desktop": "0rem",
+                                            "web": "0rem"
+                                        },
+                                        "left": {
+                                            "app": 0,
+                                            "desktop": "0rem",
+                                            "web": "0rem"
+                                        },
+                                        "right": {
+                                            "app": 0,
+                                            "desktop": "0rem",
+                                            "web": "0rem"
+                                        },
+                                        "top": {
+                                            "app": 0,
+                                            "desktop": "0rem",
+                                            "web": "0rem"
+                                        }
+                                    },
+                                    "text": {
+                                        "alignment": "left",
+                                        "color": "#92001325",
+                                        "fontFamily": "Inter",
+                                        "fontWeight": 500,
+                                        "letterSpacing": {
+                                            "app": 0,
+                                            "desktop": "0rem",
+                                            "web": "0rem"
+                                        },
+                                        "lineSpacing": {
+                                            "app": 0,
+                                            "desktop": "0rem",
+                                            "web": "0rem"
+                                        },
+                                        "maxLines": {
+                                            "app": 1,
+                                            "desktop": 1,
+                                            "web": 1
+                                        },
+                                        "size": {
+                                            "app": 16,
+                                            "desktop": "1rem",
+                                            "web": "1rem"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "name": "swTitle",
+                                "style": {
+                                    "padding": {
+                                        "bottom": {
+                                            "app": 0,
+                                            "desktop": "0px",
+                                            "web": "0px"
+                                        },
+                                        "left": {
+                                            "app": 0,
+                                            "desktop": "3rem",
+                                            "web": "3rem"
+                                        },
+                                        "right": {
+                                            "app": 0,
+                                            "desktop": "0px",
+                                            "web": "0px"
+                                        },
+                                        "top": {
+                                            "app": 16,
+                                            "desktop": "1.5rem",
+                                            "web": "1.5rem"
+                                        }
+                                    },
+                                    "text": {
+                                        "alignment": "left",
+                                        "color": "#001325",
+                                        "fontFamily": "Inter",
+                                        "fontWeight": 600,
+                                        "letterSpacing": {
+                                            "app": 0,
+                                            "desktop": "0rem",
+                                            "web": "0rem"
+                                        },
+                                        "lineSpacing": {
+                                            "app": 0,
+                                            "desktop": "0rem",
+                                            "web": "0rem"
+                                        },
+                                        "maxLines": {
+                                            "app": 1,
+                                            "desktop": 1,
+                                            "web": 1
+                                        },
+                                        "size": {
+                                            "app": 20,
+                                            "desktop": "24px",
+                                            "web": "24px"
+                                        }
+                                    },
+                                    "visible": true
+                                }
+                            },
+                            {
+                                "name": "bannerDescription",
+                                "style": {
+                                    "padding": {
+                                        "bottom": {
+                                            "app": 0,
+                                            "desktop": "0rem",
+                                            "web": "0rem"
+                                        },
+                                        "left": {
+                                            "app": 0,
+                                            "desktop": "0rem",
+                                            "web": "0rem"
+                                        },
+                                        "right": {
+                                            "app": 0,
+                                            "desktop": "0rem",
+                                            "web": "0rem"
+                                        },
+                                        "top": {
+                                            "app": 0,
+                                            "desktop": "0rem",
+                                            "web": "0rem"
+                                        }
+                                    },
+                                    "text": {
+                                        "alignment": "left",
+                                        "color": "#92001325",
+                                        "fontFamily": "Inter",
+                                        "fontWeight": 400,
+                                        "letterSpacing": {
+                                            "app": 0,
+                                            "desktop": "0rem",
+                                            "web": "0rem"
+                                        },
+                                        "lineSpacing": {
+                                            "app": 0,
+                                            "desktop": "0rem",
+                                            "web": "0rem"
+                                        },
+                                        "maxLines": {
+                                            "app": 1,
+                                            "desktop": 1,
+                                            "web": 1
+                                        },
+                                        "size": {
+                                            "app": 14,
+                                            "desktop": "0.875rem",
+                                            "web": "0.875rem"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "name": "swDescription",
+                                "style": {
+                                    "margin": {
+                                        "bottom": {
+                                            "app": 0,
+                                            "desktop": "0rem",
+                                            "web": "0rem"
+                                        },
+                                        "left": {
+                                            "app": 0,
+                                            "desktop": "0rem",
+                                            "web": "0rem"
+                                        },
+                                        "right": {
+                                            "app": 0,
+                                            "desktop": "0rem",
+                                            "web": "0rem"
+                                        },
+                                        "top": {
+                                            "app": 0,
+                                            "desktop": "0rem",
+                                            "web": "0rem"
+                                        }
+                                    },
+                                    "padding": {
+                                        "bottom": {
+                                            "app": 0,
+                                            "desktop": "0rem",
+                                            "web": "0rem"
+                                        },
+                                        "left": {
+                                            "app": 0,
+                                            "desktop": "0rem",
+                                            "web": "0rem"
+                                        },
+                                        "right": {
+                                            "app": 0,
+                                            "desktop": "0rem",
+                                            "web": "0rem"
+                                        },
+                                        "top": {
+                                            "app": 0,
+                                            "desktop": "0rem",
+                                            "web": "0rem"
+                                        }
+                                    },
+                                    "text": {
+                                        "alignment": "left",
+                                        "color": "#92001325",
+                                        "fontFamily": "Inter",
+                                        "fontWeight": 400,
+                                        "letterSpacing": {
+                                            "app": 0,
+                                            "desktop": "0rem",
+                                            "web": "0rem"
+                                        },
+                                        "lineSpacing": {
+                                            "app": 0,
+                                            "desktop": "0rem",
+                                            "web": "0rem"
+                                        },
+                                        "maxLines": {
+                                            "app": 1,
+                                            "desktop": 1,
+                                            "web": 1
+                                        },
+                                        "size": {
+                                            "app": 14,
+                                            "desktop": "0.875rem",
+                                            "web": "0.875rem"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "name": "bannerTextArea",
+                                "style": {
+                                    "bkg": {
+                                        "alpha": 0,
+                                        "colorEnd": "",
+                                        "colorStart": "#ffffff",
+                                        "degree": 0,
+                                        "type": "color"
+                                    },
+                                    "individualBorders": {
+                                        "alpha": 0,
+                                        "bottom": {
+                                            "alpha": 0,
+                                            "color": "#ffffff",
+                                            "width": {
+                                                "app": 0,
+                                                "desktop": "0rem",
+                                                "web": "0rem"
+                                            }
+                                        },
+                                        "color": "#ffffff",
+                                        "left": {
+                                            "alpha": 0,
+                                            "color": "#ffffff",
+                                            "width": {
+                                                "app": 0,
+                                                "desktop": "0rem",
+                                                "web": "0rem"
+                                            }
+                                        },
+                                        "right": {
+                                            "alpha": 0,
+                                            "color": "#ffffff",
+                                            "width": {
+                                                "app": 0,
+                                                "desktop": "0rem",
+                                                "web": "0rem"
+                                            }
+                                        },
+                                        "top": {
+                                            "alpha": 0,
+                                            "color": "#ffffff",
+                                            "width": {
+                                                "app": 0,
+                                                "desktop": "0rem",
+                                                "web": "0rem"
+                                            }
+                                        }
+                                    },
+                                    "individualCornerRadius": {
+                                        "bottomLeft": {
+                                            "app": 0,
+                                            "desktop": "0",
+                                            "web": "0"
+                                        },
+                                        "bottomRight": {
+                                            "app": 0,
+                                            "desktop": "0",
+                                            "web": "0"
+                                        },
+                                        "topLeft": {
+                                            "app": 0,
+                                            "desktop": "0",
+                                            "web": "0"
+                                        },
+                                        "topRight": {
+                                            "app": 0,
+                                            "desktop": "0",
+                                            "web": "0"
+                                        }
+                                    },
+                                    "margin": {
+                                        "bottom": {
+                                            "app": 0,
+                                            "desktop": "0px",
+                                            "web": "0px"
+                                        },
+                                        "left": {
+                                            "app": 0,
+                                            "desktop": "0px",
+                                            "web": "0px"
+                                        },
+                                        "right": {
+                                            "app": 0,
+                                            "desktop": "0px",
+                                            "web": "0px"
+                                        },
+                                        "top": {
+                                            "app": 0,
+                                            "desktop": "0px",
+                                            "web": "0px"
+                                        }
+                                    },
+                                    "padding": {
+                                        "bottom": {
+                                            "app": 0,
+                                            "desktop": "0rem",
+                                            "web": "0rem"
+                                        },
+                                        "left": {
+                                            "app": 0,
+                                            "desktop": "0rem",
+                                            "web": "0rem"
+                                        },
+                                        "right": {
+                                            "app": 0,
+                                            "desktop": "0rem",
+                                            "web": "0rem"
+                                        },
+                                        "top": {
+                                            "app": 0,
+                                            "desktop": "0.25rem",
+                                            "web": "0.25rem"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "name": "footerButton",
+                                "style": {
+                                    "alignment": "default",
+                                    "borderColor": "#C0C0C0",
+                                    "cornerRadius": {
+                                        "app": 10,
+                                        "web": "0px"
+                                    },
+                                    "padding": {
+                                        "bottom": {
+                                            "app": 4,
+                                            "web": "0px"
+                                        },
+                                        "left": {
+                                            "app": 6,
+                                            "web": "0px"
+                                        },
+                                        "right": {
+                                            "app": 6,
+                                            "web": "0px"
+                                        },
+                                        "top": {
+                                            "app": 4,
+                                            "web": "0px"
+                                        }
+                                    },
+                                    "rightArrowColor": "#00FF00",
+                                    "text": {
+                                        "alignment": "left",
+                                        "color": "#00FF00",
+                                        "fontFamily": "Graphik",
+                                        "fontWeight": 400,
+                                        "letterSpacing": {
+                                            "app": 0.5,
+                                            "web": "0px"
+                                        },
+                                        "lineSpacing": {
+                                            "app": 0,
+                                            "desktop": "0px",
+                                            "web": "0px"
+                                        },
+                                        "maxLines": {
+                                            "app": 2,
+                                            "web": 2
+                                        },
+                                        "size": {
+                                            "app": 14,
+                                            "web": "14px"
+                                        }
+                                    },
+                                    "width": "50"
+                                }
+                            },
+                            {
+                                "name": "clposition",
+                                "style": {
+                                    "bkg": {
+                                        "alpha": 1,
+                                        "colorEnd": "#ffffff",
+                                        "colorStart": "#ffffff",
+                                        "degree": 0,
+                                        "type": "color"
+                                    },
+                                    "edgeToEdgeIndicator": {
+                                        "size": {
+                                            "height": {
+                                                "app": 2,
+                                                "desktop": "0.25rem",
+                                                "web": "0.25rem"
+                                            },
+                                            "width": {
+                                                "app": 24,
+                                                "desktop": "1.5rem",
+                                                "web": "1.5rem"
+                                            }
+                                        },
+                                        "type": "bar"
+                                    },
+                                    "indicator": {
+                                        "size": {
+                                            "height": {
+                                                "app": 2,
+                                                "desktop": "0.25rem",
+                                                "web": "0.25rem"
+                                            },
+                                            "width": {
+                                                "app": 24,
+                                                "desktop": "1.5rem",
+                                                "web": "1.5rem"
+                                            }
+                                        },
+                                        "text": {
+                                            "alignment": "right",
+                                            "color": "#64000F1D",
+                                            "fontFamily": "Inter",
+                                            "fontWeight": 500,
+                                            "letterSpacing": {
+                                                "app": 0.5,
+                                                "desktop": "0px",
+                                                "web": "0px"
+                                            },
+                                            "lineSpacing": {
+                                                "app": 0,
+                                                "desktop": "0px",
+                                                "web": "0px"
+                                            },
+                                            "maxLines": {
+                                                "app": 1,
+                                                "desktop": 1,
+                                                "web": 1
+                                            },
+                                            "size": {
+                                                "app": 12,
+                                                "desktop": "10px",
+                                                "web": "10px"
+                                            }
+                                        },
+                                        "type": "bar"
+                                    },
+                                    "indicatorBkg": {
+                                        "baseColour": "#E0E3E6",
+                                        "highlightColour": "#64001325"
+                                    },
+                                    "padding": {
+                                        "bottom": {
+                                            "app": 0,
+                                            "desktop": "0rem",
+                                            "web": "0rem"
+                                        },
+                                        "left": {
+                                            "app": 0,
+                                            "desktop": "0rem",
+                                            "web": "0rem"
+                                        },
+                                        "right": {
+                                            "app": 0,
+                                            "desktop": "0rem",
+                                            "web": "0rem"
+                                        },
+                                        "top": {
+                                            "app": 8,
+                                            "desktop": "0.75rem",
+                                            "web": "0.75rem"
+                                        }
+                                    },
+                                    "text": {
+                                        "alignment": "right",
+                                        "color": "#64000F1D",
+                                        "fontFamily": "Inter",
+                                        "fontWeight": 500,
+                                        "letterSpacing": {
+                                            "app": 0.5,
+                                            "desktop": "0px",
+                                            "web": "0px"
+                                        },
+                                        "lineSpacing": {
+                                            "app": 0,
+                                            "desktop": "0px",
+                                            "web": "0px"
+                                        },
+                                        "maxLines": {
+                                            "app": 1,
+                                            "desktop": 1,
+                                            "web": 1
+                                        },
+                                        "size": {
+                                            "app": 12,
+                                            "desktop": "10px",
+                                            "web": "10px"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "name": "swSpacing",
+                                "style": {
+                                    "interItem": {
+                                        "app": 12,
+                                        "desktop": "0.5rem",
+                                        "web": "0.5rem"
+                                    },
+                                    "padding": {
+                                        "bottom": {
+                                            "app": 16,
+                                            "desktop": "1rem",
+                                            "web": "1rem"
+                                        },
+                                        "left": {
+                                            "app": 20,
+                                            "desktop": "0rem",
+                                            "web": "0rem"
+                                        },
+                                        "right": {
+                                            "app": 20,
+                                            "desktop": "0rem",
+                                            "web": "0rem"
+                                        },
+                                        "top": {
+                                            "app": 12,
+                                            "desktop": "1rem",
+                                            "web": "1rem"
+                                        }
+                                    }
+                                }
+                            }
+                        ],
+                        "isDesktop": true
+                    },
+                    "children": [
+                        {
+                            "id": "64776e41cb4df6e9b5bac594",
+                            "widgetType": "BANNER_V2",
+                            "positionInParent": 1,
+                            "inventoryName": "nykaa.pd-page-banner-all-v2",
+                            "params": {
+                                "appLinkType": "non_clickable",
+                                "appLinkData": "",
+                                "trackingParams": "nykaa:other:pd-page:all:pd-page-banner-all-v2:CAROUSEL_V2:1:ioc1:-1:482f7e9110eda0d98598bec5886a4494",
+                                "url": "http://www.nykaa.com",
+                                "title": "",
+                                "callOut": "",
+                                "tagType": "text",
+                                "tagText": "",
+                                "tagTimerEnd": "",
+                                "timerEndText": "",
+                                "description": "",
+                                "actionType": "none",
+                                "trackingParameters": "ioc1",
+                                "section": "primary",
+                                "randomize": "no",
+                                "childWidthDesktop": "",
+                                "callOut2": "",
+                                "callOut3": "",
+                                "textAreaOpacity": "",
+                                "textPosition": "below_image",
+                                "isDesktop": true
+                            },
+                            "children": [
+                                {
+                                    "id": "64776e6fce845191a2cf557d",
+                                    "widgetType": "IMAGE",
+                                    "positionInParent": 1,
+                                    "inventoryName": "nykaa.pd-page-banner-all-v2",
+                                    "params": {
+                                        "src": "https://images-static.nykaa.com/uploads/433f251b-03af-4b4d-aedd-a099bde3f215.jpg",
+                                        "aspectRatio": 6,
+                                        "url": "http://www.nykaa.com",
+                                        "textAreaOpacity": "",
+                                        "textPosition": "below_image",
+                                        "isDesktop": true
+                                    },
+                                    "children": [],
+                                    "inheritParams": {},
+                                    "trackingData": {
+                                        "namespace0": "pd-page",
+                                        "namespace1": "pd-page-banner-all-v2",
+                                        "lang": "en",
+                                        "position1": 1,
+                                        "pageData1": "",
+                                        "pageData2": "all",
+                                        "position2": 1,
+                                        "wtype": "BANNER_V2",
+                                        "wtype_version": "v2",
+                                        "brand_ids": [
+                                            "-1"
+                                        ],
+                                        "dn_tracking_metadata": ""
+                                    },
+                                    "isDesktop": true,
+                                    "store": "nykaa",
+                                    "pagePrefix": "",
+                                    "previewMode": false,
+                                    "pwType": "BANNER_V2",
+                                    "devModeData": "{\"dn_widget_id\":\"64776e6fce845191a2cf557d\",\"dn_inventory_id\":\"64528df238d698aca91e82f2\",\"dn_inventory_name\":\"nykaa.pd-page-banner-all-v2\",\"dn_page_type\":\"pd-page\",\"dn_page_section\":\"pd-page-banner-all-v2\",\"dn_page_data\":\"all\",\"dn_widget_type\":\"IMAGE\",\"dn_parent_widget_type\":\"BANNER_V2\"}"
+                                }
+                            ],
+                            "inheritParams": {
+                                "url": "http://www.nykaa.com"
+                            },
+                            "trackingData": {
+                                "namespace0": "pd-page",
+                                "namespace1": "pd-page-banner-all-v2",
+                                "lang": "en",
+                                "position1": 1,
+                                "pageData1": "",
+                                "pageData2": "all",
+                                "namespace2": "ioc1",
+                                "position2": 1,
+                                "transaction_id": "482f7e9110eda0d98598bec5886a4494",
+                                "categories": "",
+                                "wtype": "CAROUSEL_V2",
+                                "wtype_version": "v2",
+                                "brand_ids": [
+                                    "-1"
+                                ],
+                                "dn_tracking_metadata": "{\"Mobile\":\"https://images-static.nykaa.com/uploads/d2303cd7-8437-492c-95d9-2c720d2e0b3a.jpg\",\"dn_request_id\":\"1-647dbd9f-536eedcd6261afc91cffdec2\",\"tile_id\":\"64776e41cb4df6e9b5bac594\",\"tile_source\":\"default\",\"widget_type\":\"BANNER_V2\"}"
+                            },
+                            "isDesktop": true,
+                            "store": "nykaa",
+                            "pagePrefix": "",
+                            "previewMode": false,
+                            "pwType": "CAROUSEL_V2",
+                            "devModeData": "{\"dn_widget_id\":\"64776e41cb4df6e9b5bac594\",\"dn_inventory_id\":\"64528df238d698aca91e82f2\",\"dn_inventory_name\":\"nykaa.pd-page-banner-all-v2\",\"dn_page_type\":\"pd-page\",\"dn_page_section\":\"pd-page-banner-all-v2\",\"dn_page_data\":\"all\",\"dn_widget_type\":\"BANNER_V2\",\"dn_parent_widget_type\":\"CAROUSEL_V2\"}"
+                        },
+                        {
+                            "id": "64776e5ea19b7d0cab998b50",
+                            "widgetType": "BANNER_V2",
+                            "positionInParent": 2,
+                            "inventoryName": "nykaa.pd-page-banner-all-v2",
+                            "params": {
+                                "appLinkType": "non_clickable",
+                                "appLinkData": "",
+                                "trackingParams": "nykaa:other:pd-page:all:pd-page-banner-all-v2:CAROUSEL_V2:1:ioc1:-1:3d322b5c4fb0cbc5cb30f35538cf6437",
+                                "url": "http://www.nykaa.com",
+                                "title": "",
+                                "callOut": "",
+                                "tagType": "text",
+                                "tagText": "",
+                                "tagTimerEnd": "",
+                                "timerEndText": "",
+                                "description": "",
+                                "actionType": "none",
+                                "trackingParameters": "ioc1",
+                                "section": "primary",
+                                "randomize": "no",
+                                "childWidthDesktop": "",
+                                "callOut2": "",
+                                "callOut3": "",
+                                "textAreaOpacity": "",
+                                "textPosition": "below_image",
+                                "isDesktop": true
+                            },
+                            "children": [
+                                {
+                                    "id": "645e60d1f58111cb62a06fd7",
+                                    "widgetType": "IMAGE",
+                                    "positionInParent": 1,
+                                    "inventoryName": "nykaa.pd-page-banner-all-v2",
+                                    "params": {
+                                        "src": "https://images-static.nykaa.com/uploads/837301bc-5b72-4384-9d31-c0f5b233ae94.jpg",
+                                        "aspectRatio": 5.463414634146342,
+                                        "url": "http://www.nykaa.com",
+                                        "textAreaOpacity": "",
+                                        "textPosition": "below_image",
+                                        "isDesktop": true
+                                    },
+                                    "children": [],
+                                    "inheritParams": {},
+                                    "trackingData": {
+                                        "namespace0": "pd-page",
+                                        "namespace1": "pd-page-banner-all-v2",
+                                        "lang": "en",
+                                        "position1": 1,
+                                        "pageData1": "",
+                                        "pageData2": "all",
+                                        "position2": 1,
+                                        "wtype": "BANNER_V2",
+                                        "wtype_version": "v2",
+                                        "brand_ids": [
+                                            "-1"
+                                        ],
+                                        "dn_tracking_metadata": ""
+                                    },
+                                    "isDesktop": true,
+                                    "store": "nykaa",
+                                    "pagePrefix": "",
+                                    "previewMode": false,
+                                    "pwType": "BANNER_V2",
+                                    "devModeData": "{\"dn_widget_id\":\"645e60d1f58111cb62a06fd7\",\"dn_inventory_id\":\"64528df238d698aca91e82f2\",\"dn_inventory_name\":\"nykaa.pd-page-banner-all-v2\",\"dn_page_type\":\"pd-page\",\"dn_page_section\":\"pd-page-banner-all-v2\",\"dn_page_data\":\"all\",\"dn_widget_type\":\"IMAGE\",\"dn_parent_widget_type\":\"BANNER_V2\"}"
+                                }
+                            ],
+                            "inheritParams": {
+                                "url": "http://www.nykaa.com"
+                            },
+                            "trackingData": {
+                                "namespace0": "pd-page",
+                                "namespace1": "pd-page-banner-all-v2",
+                                "lang": "en",
+                                "position1": 1,
+                                "pageData1": "",
+                                "pageData2": "all",
+                                "namespace2": "ioc1",
+                                "position2": 2,
+                                "transaction_id": "3d322b5c4fb0cbc5cb30f35538cf6437",
+                                "categories": "",
+                                "wtype": "CAROUSEL_V2",
+                                "wtype_version": "v2",
+                                "brand_ids": [
+                                    "-1"
+                                ],
+                                "dn_tracking_metadata": "{\"Mobile\":\"https://images-static.nykaa.com/uploads/21d7b285-08ab-41f4-a410-f072510b258b.jpg\",\"dn_request_id\":\"1-647dbd9f-536eedcd6261afc91cffdec2\",\"tile_id\":\"64776e5ea19b7d0cab998b50\",\"tile_source\":\"default\",\"widget_type\":\"BANNER_V2\"}"
+                            },
+                            "isDesktop": true,
+                            "store": "nykaa",
+                            "pagePrefix": "",
+                            "previewMode": false,
+                            "pwType": "CAROUSEL_V2",
+                            "devModeData": "{\"dn_widget_id\":\"64776e5ea19b7d0cab998b50\",\"dn_inventory_id\":\"64528df238d698aca91e82f2\",\"dn_inventory_name\":\"nykaa.pd-page-banner-all-v2\",\"dn_page_type\":\"pd-page\",\"dn_page_section\":\"pd-page-banner-all-v2\",\"dn_page_data\":\"all\",\"dn_widget_type\":\"BANNER_V2\",\"dn_parent_widget_type\":\"CAROUSEL_V2\"}"
+                        },
+                        {
+                            "id": "645296bcd2612d6a637ee615",
+                            "widgetType": "BANNER_V2",
+                            "positionInParent": 3,
+                            "inventoryName": "nykaa.pd-page-banner-all-v2",
+                            "params": {
+                                "appLinkType": "non_clickable",
+                                "appLinkData": "",
+                                "trackingParams": "nykaa:other:pd-page:all:pd-page-banner-all-v2:CAROUSEL_V2:1:ioc1:-1:3b792ab4d96251f5504f2aa1ac6c28c9",
+                                "url": "http://www.nykaa.com",
+                                "title": "",
+                                "callOut": "",
+                                "tagType": "text",
+                                "tagText": "",
+                                "tagTimerEnd": "",
+                                "timerEndText": "",
+                                "description": "",
+                                "actionType": "none",
+                                "trackingParameters": "ioc1",
+                                "section": "primary",
+                                "randomize": "no",
+                                "childWidthDesktop": "",
+                                "callOut2": "",
+                                "callOut3": "",
+                                "textAreaOpacity": "",
+                                "textPosition": "below_image",
+                                "isDesktop": true
+                            },
+                            "children": [
+                                {
+                                    "id": "64776e7fb14bc57d7f2d841a",
+                                    "widgetType": "IMAGE",
+                                    "positionInParent": 1,
+                                    "inventoryName": "nykaa.pd-page-banner-all-v2",
+                                    "params": {
+                                        "src": "https://images-static.nykaa.com/uploads/f807b816-fdc3-4cf3-bbfa-7e86f65d0301.jpg",
+                                        "aspectRatio": 6,
+                                        "url": "http://www.nykaa.com",
+                                        "textAreaOpacity": "",
+                                        "textPosition": "below_image",
+                                        "isDesktop": true
+                                    },
+                                    "children": [],
+                                    "inheritParams": {},
+                                    "trackingData": {
+                                        "namespace0": "pd-page",
+                                        "namespace1": "pd-page-banner-all-v2",
+                                        "lang": "en",
+                                        "position1": 1,
+                                        "pageData1": "",
+                                        "pageData2": "all",
+                                        "position2": 1,
+                                        "wtype": "BANNER_V2",
+                                        "wtype_version": "v2",
+                                        "brand_ids": [
+                                            "-1"
+                                        ],
+                                        "dn_tracking_metadata": ""
+                                    },
+                                    "isDesktop": true,
+                                    "store": "nykaa",
+                                    "pagePrefix": "",
+                                    "previewMode": false,
+                                    "pwType": "BANNER_V2",
+                                    "devModeData": "{\"dn_widget_id\":\"64776e7fb14bc57d7f2d841a\",\"dn_inventory_id\":\"64528df238d698aca91e82f2\",\"dn_inventory_name\":\"nykaa.pd-page-banner-all-v2\",\"dn_page_type\":\"pd-page\",\"dn_page_section\":\"pd-page-banner-all-v2\",\"dn_page_data\":\"all\",\"dn_widget_type\":\"IMAGE\",\"dn_parent_widget_type\":\"BANNER_V2\"}"
+                                }
+                            ],
+                            "inheritParams": {
+                                "url": "http://www.nykaa.com"
+                            },
+                            "trackingData": {
+                                "namespace0": "pd-page",
+                                "namespace1": "pd-page-banner-all-v2",
+                                "lang": "en",
+                                "position1": 1,
+                                "pageData1": "",
+                                "pageData2": "all",
+                                "namespace2": "ioc1",
+                                "position2": 3,
+                                "transaction_id": "3b792ab4d96251f5504f2aa1ac6c28c9",
+                                "categories": "",
+                                "wtype": "CAROUSEL_V2",
+                                "wtype_version": "v2",
+                                "brand_ids": [
+                                    "-1"
+                                ],
+                                "dn_tracking_metadata": "{\"Mobile\":\"https://images-static.nykaa.com/uploads/1a865dad-3df7-4431-9069-456f81e49633.jpg\",\"dn_request_id\":\"1-647dbd9f-536eedcd6261afc91cffdec2\",\"tile_id\":\"645296bcd2612d6a637ee615\",\"tile_source\":\"default\",\"widget_type\":\"BANNER_V2\"}"
+                            },
+                            "isDesktop": true,
+                            "store": "nykaa",
+                            "pagePrefix": "",
+                            "previewMode": false,
+                            "pwType": "CAROUSEL_V2",
+                            "devModeData": "{\"dn_widget_id\":\"645296bcd2612d6a637ee615\",\"dn_inventory_id\":\"64528df238d698aca91e82f2\",\"dn_inventory_name\":\"nykaa.pd-page-banner-all-v2\",\"dn_page_type\":\"pd-page\",\"dn_page_section\":\"pd-page-banner-all-v2\",\"dn_page_data\":\"all\",\"dn_widget_type\":\"BANNER_V2\",\"dn_parent_widget_type\":\"CAROUSEL_V2\"}"
+                        },
+                        {
+                            "id": "645296bfd2612d6a637ee61b",
+                            "widgetType": "BANNER_V2",
+                            "positionInParent": 4,
+                            "inventoryName": "nykaa.pd-page-banner-all-v2",
+                            "params": {
+                                "appLinkType": "non_clickable",
+                                "appLinkData": "",
+                                "trackingParams": "nykaa:other:pd-page:all:pd-page-banner-all-v2:CAROUSEL_V2:1:ioc2:-1:8fe818c512c86b00ab58941d51008620",
+                                "url": "http://www.nykaa.com",
+                                "title": "",
+                                "callOut": "",
+                                "tagType": "text",
+                                "tagText": "",
+                                "tagTimerEnd": "",
+                                "timerEndText": "",
+                                "description": "",
+                                "actionType": "none",
+                                "trackingParameters": "ioc2",
+                                "section": "primary",
+                                "randomize": "yes",
+                                "childWidthDesktop": "",
+                                "callOut2": "",
+                                "callOut3": "",
+                                "textAreaOpacity": "",
+                                "textPosition": "below_image",
+                                "isDesktop": true
+                            },
+                            "children": [
+                                {
+                                    "id": "645e5fd68fea04914c43335d",
+                                    "widgetType": "IMAGE",
+                                    "positionInParent": 1,
+                                    "inventoryName": "nykaa.pd-page-banner-all-v2",
+                                    "params": {
+                                        "src": "https://images-static.nykaa.com/uploads/963a18d0-5122-45b2-a7fc-12f1f5ec7b72.jpg",
+                                        "aspectRatio": 5.463414634146342,
+                                        "url": "http://www.nykaa.com",
+                                        "textAreaOpacity": "",
+                                        "textPosition": "below_image",
+                                        "isDesktop": true
+                                    },
+                                    "children": [],
+                                    "inheritParams": {},
+                                    "trackingData": {
+                                        "namespace0": "pd-page",
+                                        "namespace1": "pd-page-banner-all-v2",
+                                        "lang": "en",
+                                        "position1": 1,
+                                        "pageData1": "",
+                                        "pageData2": "all",
+                                        "position2": 1,
+                                        "wtype": "BANNER_V2",
+                                        "wtype_version": "v2",
+                                        "brand_ids": [
+                                            "-1"
+                                        ],
+                                        "dn_tracking_metadata": ""
+                                    },
+                                    "isDesktop": true,
+                                    "store": "nykaa",
+                                    "pagePrefix": "",
+                                    "previewMode": false,
+                                    "pwType": "BANNER_V2",
+                                    "devModeData": "{\"dn_widget_id\":\"645e5fd68fea04914c43335d\",\"dn_inventory_id\":\"64528df238d698aca91e82f2\",\"dn_inventory_name\":\"nykaa.pd-page-banner-all-v2\",\"dn_page_type\":\"pd-page\",\"dn_page_section\":\"pd-page-banner-all-v2\",\"dn_page_data\":\"all\",\"dn_widget_type\":\"IMAGE\",\"dn_parent_widget_type\":\"BANNER_V2\"}"
+                                }
+                            ],
+                            "inheritParams": {
+                                "url": "http://www.nykaa.com"
+                            },
+                            "trackingData": {
+                                "namespace0": "pd-page",
+                                "namespace1": "pd-page-banner-all-v2",
+                                "lang": "en",
+                                "position1": 1,
+                                "pageData1": "",
+                                "pageData2": "all",
+                                "namespace2": "ioc2",
+                                "position2": 4,
+                                "transaction_id": "8fe818c512c86b00ab58941d51008620",
+                                "categories": "",
+                                "wtype": "CAROUSEL_V2",
+                                "wtype_version": "v2",
+                                "brand_ids": [
+                                    "-1"
+                                ],
+                                "dn_tracking_metadata": "{\"Mobile\":\"https://images-static.nykaa.com/uploads/2f9873fe-001f-40e1-b401-6fd96f5e45c6.jpg\",\"dn_request_id\":\"1-647dbd9f-536eedcd6261afc91cffdec2\",\"tile_id\":\"645296bfd2612d6a637ee61b\",\"tile_source\":\"default\",\"widget_type\":\"BANNER_V2\"}"
+                            },
+                            "isDesktop": true,
+                            "store": "nykaa",
+                            "pagePrefix": "",
+                            "previewMode": false,
+                            "pwType": "CAROUSEL_V2",
+                            "devModeData": "{\"dn_widget_id\":\"645296bfd2612d6a637ee61b\",\"dn_inventory_id\":\"64528df238d698aca91e82f2\",\"dn_inventory_name\":\"nykaa.pd-page-banner-all-v2\",\"dn_page_type\":\"pd-page\",\"dn_page_section\":\"pd-page-banner-all-v2\",\"dn_page_data\":\"all\",\"dn_widget_type\":\"BANNER_V2\",\"dn_parent_widget_type\":\"CAROUSEL_V2\"}"
+                        },
+                        {
+                            "id": "647cabb301e2ba62fbe117df",
+                            "widgetType": "BANNER_V2",
+                            "positionInParent": 9,
+                            "inventoryName": "nykaa.pd-page-banner-all-v2",
+                            "params": {
+                                "appLinkType": "non_clickable",
+                                "appLinkData": "",
+                                "trackingParams": "nykaa:other:pd-page:all:pd-page-banner-all-v2:CAROUSEL_V2:1:prive-gold-2x:-1:351be2a5a0925b5d156a65ee4b444e80",
+                                "url": "http://www.nykaa.com",
+                                "title": "",
+                                "callOut": "",
+                                "tagType": "text",
+                                "tagText": "",
+                                "tagTimerEnd": "",
+                                "timerEndText": "",
+                                "description": "",
+                                "actionType": "none",
+                                "trackingParameters": "prive-gold-2x",
+                                "section": "primary",
+                                "randomize": "yes",
+                                "childWidthDesktop": "",
+                                "callOut2": "",
+                                "callOut3": "",
+                                "textAreaOpacity": "",
+                                "textPosition": "below_image",
+                                "isDesktop": true
+                            },
+                            "children": [
+                                {
+                                    "id": "647cabd2abe8b65173202c9c",
+                                    "widgetType": "IMAGE",
+                                    "positionInParent": 1,
+                                    "inventoryName": "nykaa.pd-page-banner-all-v2",
+                                    "params": {
+                                        "src": "https://images-static.nykaa.com/uploads/be90dde3-240b-4a5e-9586-1dd2d1c3baa6.jpeg",
+                                        "aspectRatio": 45.6,
+                                        "url": "http://www.nykaa.com",
+                                        "textAreaOpacity": "",
+                                        "textPosition": "below_image",
+                                        "isDesktop": true
+                                    },
+                                    "children": [],
+                                    "inheritParams": {},
+                                    "trackingData": {
+                                        "namespace0": "pd-page",
+                                        "namespace1": "pd-page-banner-all-v2",
+                                        "lang": "en",
+                                        "position1": 1,
+                                        "pageData1": "",
+                                        "pageData2": "all",
+                                        "position2": 1,
+                                        "wtype": "BANNER_V2",
+                                        "wtype_version": "v2",
+                                        "brand_ids": [
+                                            "-1"
+                                        ],
+                                        "dn_tracking_metadata": ""
+                                    },
+                                    "isDesktop": true,
+                                    "store": "nykaa",
+                                    "pagePrefix": "",
+                                    "previewMode": false,
+                                    "pwType": "BANNER_V2",
+                                    "devModeData": "{\"dn_widget_id\":\"647cabd2abe8b65173202c9c\",\"dn_inventory_id\":\"64528df238d698aca91e82f2\",\"dn_inventory_name\":\"nykaa.pd-page-banner-all-v2\",\"dn_page_type\":\"pd-page\",\"dn_page_section\":\"pd-page-banner-all-v2\",\"dn_page_data\":\"all\",\"dn_widget_type\":\"IMAGE\",\"dn_parent_widget_type\":\"BANNER_V2\"}"
+                                }
+                            ],
+                            "inheritParams": {
+                                "url": "http://www.nykaa.com"
+                            },
+                            "trackingData": {
+                                "namespace0": "pd-page",
+                                "namespace1": "pd-page-banner-all-v2",
+                                "lang": "en",
+                                "position1": 1,
+                                "pageData1": "",
+                                "pageData2": "all",
+                                "namespace2": "prive-gold-2x",
+                                "position2": 5,
+                                "transaction_id": "351be2a5a0925b5d156a65ee4b444e80",
+                                "categories": "",
+                                "wtype": "CAROUSEL_V2",
+                                "wtype_version": "v2",
+                                "brand_ids": [
+                                    "-1"
+                                ],
+                                "dn_tracking_metadata": "{\"Mobile\":\"https://images-static.nykaa.com/uploads/821fae62-1d72-494d-826e-094646b3d06e.jpg\",\"dn_request_id\":\"1-647dbd9f-536eedcd6261afc91cffdec2\",\"tile_id\":\"647cabb301e2ba62fbe117df\",\"tile_source\":\"default\",\"widget_type\":\"BANNER_V2\"}"
+                            },
+                            "isDesktop": true,
+                            "store": "nykaa",
+                            "pagePrefix": "",
+                            "previewMode": false,
+                            "pwType": "CAROUSEL_V2",
+                            "devModeData": "{\"dn_widget_id\":\"647cabb301e2ba62fbe117df\",\"dn_inventory_id\":\"64528df238d698aca91e82f2\",\"dn_inventory_name\":\"nykaa.pd-page-banner-all-v2\",\"dn_page_type\":\"pd-page\",\"dn_page_section\":\"pd-page-banner-all-v2\",\"dn_page_data\":\"all\",\"dn_widget_type\":\"BANNER_V2\",\"dn_parent_widget_type\":\"CAROUSEL_V2\"}"
+                        },
+                        {
+                            "id": "6475ae3b66810de153cf1c94",
+                            "widgetType": "BANNER_V2",
+                            "positionInParent": 5,
+                            "inventoryName": "nykaa.pd-page-banner-all-v2",
+                            "params": {
+                                "appLinkType": "non_clickable",
+                                "appLinkData": "",
+                                "trackingParams": "nykaa:other:pd-page:all:pd-page-banner-all-v2:CAROUSEL_V2:1:ioc3:-1:92898f1cb464d4cc14357123b4d07f2e",
+                                "url": "http://www.nykaa.com",
+                                "title": "",
+                                "callOut": "",
+                                "tagType": "text",
+                                "tagText": "",
+                                "tagTimerEnd": "",
+                                "timerEndText": "",
+                                "description": "",
+                                "actionType": "none",
+                                "trackingParameters": "ioc3",
+                                "section": "primary",
+                                "randomize": "yes",
+                                "childWidthDesktop": "",
+                                "callOut2": "",
+                                "callOut3": "",
+                                "textAreaOpacity": "",
+                                "textPosition": "below_image",
+                                "isDesktop": true
+                            },
+                            "children": [
+                                {
+                                    "id": "645e60456ca84aff78650f1f",
+                                    "widgetType": "IMAGE",
+                                    "positionInParent": 1,
+                                    "inventoryName": "nykaa.pd-page-banner-all-v2",
+                                    "params": {
+                                        "src": "https://images-static.nykaa.com/uploads/8071232f-87dc-400b-a54d-76e4254b0991.jpg",
+                                        "aspectRatio": 5.463414634146342,
+                                        "url": "http://www.nykaa.com",
+                                        "textAreaOpacity": "",
+                                        "textPosition": "below_image",
+                                        "isDesktop": true
+                                    },
+                                    "children": [],
+                                    "inheritParams": {},
+                                    "trackingData": {
+                                        "namespace0": "pd-page",
+                                        "namespace1": "pd-page-banner-all-v2",
+                                        "lang": "en",
+                                        "position1": 1,
+                                        "pageData1": "",
+                                        "pageData2": "all",
+                                        "position2": 1,
+                                        "wtype": "BANNER_V2",
+                                        "wtype_version": "v2",
+                                        "brand_ids": [
+                                            "-1"
+                                        ],
+                                        "dn_tracking_metadata": ""
+                                    },
+                                    "isDesktop": true,
+                                    "store": "nykaa",
+                                    "pagePrefix": "",
+                                    "previewMode": false,
+                                    "pwType": "BANNER_V2",
+                                    "devModeData": "{\"dn_widget_id\":\"645e60456ca84aff78650f1f\",\"dn_inventory_id\":\"64528df238d698aca91e82f2\",\"dn_inventory_name\":\"nykaa.pd-page-banner-all-v2\",\"dn_page_type\":\"pd-page\",\"dn_page_section\":\"pd-page-banner-all-v2\",\"dn_page_data\":\"all\",\"dn_widget_type\":\"IMAGE\",\"dn_parent_widget_type\":\"BANNER_V2\"}"
+                                }
+                            ],
+                            "inheritParams": {
+                                "url": "http://www.nykaa.com"
+                            },
+                            "trackingData": {
+                                "namespace0": "pd-page",
+                                "namespace1": "pd-page-banner-all-v2",
+                                "lang": "en",
+                                "position1": 1,
+                                "pageData1": "",
+                                "pageData2": "all",
+                                "namespace2": "ioc3",
+                                "position2": 6,
+                                "transaction_id": "92898f1cb464d4cc14357123b4d07f2e",
+                                "categories": "",
+                                "wtype": "CAROUSEL_V2",
+                                "wtype_version": "v2",
+                                "brand_ids": [
+                                    "-1"
+                                ],
+                                "dn_tracking_metadata": "{\"Mobile\":\"https://images-static.nykaa.com/uploads/0f6f32f7-32e2-4cae-a40f-33a02a96dd17.jpg\",\"dn_request_id\":\"1-647dbd9f-536eedcd6261afc91cffdec2\",\"tile_id\":\"6475ae3b66810de153cf1c94\",\"tile_source\":\"default\",\"widget_type\":\"BANNER_V2\"}"
+                            },
+                            "isDesktop": true,
+                            "store": "nykaa",
+                            "pagePrefix": "",
+                            "previewMode": false,
+                            "pwType": "CAROUSEL_V2",
+                            "devModeData": "{\"dn_widget_id\":\"6475ae3b66810de153cf1c94\",\"dn_inventory_id\":\"64528df238d698aca91e82f2\",\"dn_inventory_name\":\"nykaa.pd-page-banner-all-v2\",\"dn_page_type\":\"pd-page\",\"dn_page_section\":\"pd-page-banner-all-v2\",\"dn_page_data\":\"all\",\"dn_widget_type\":\"BANNER_V2\",\"dn_parent_widget_type\":\"CAROUSEL_V2\"}"
+                        },
+                        {
+                            "id": "647cabb201e2ba62fbe117dc",
+                            "widgetType": "BANNER_V2",
+                            "positionInParent": 8,
+                            "inventoryName": "nykaa.pd-page-banner-all-v2",
+                            "params": {
+                                "appLinkType": "non_clickable",
+                                "appLinkData": "",
+                                "trackingParams": "nykaa:other:pd-page:all:pd-page-banner-all-v2:CAROUSEL_V2:1:prive-platinum-3x:-1:ade294d46d7bfb085f2edb4035a288c7",
+                                "url": "http://www.nykaa.com",
+                                "title": "",
+                                "callOut": "",
+                                "tagType": "text",
+                                "tagText": "",
+                                "tagTimerEnd": "",
+                                "timerEndText": "",
+                                "description": "",
+                                "actionType": "none",
+                                "trackingParameters": "prive-platinum-3x",
+                                "section": "primary",
+                                "randomize": "yes",
+                                "childWidthDesktop": "",
+                                "callOut2": "",
+                                "callOut3": "",
+                                "textAreaOpacity": "",
+                                "textPosition": "below_image",
+                                "isDesktop": true
+                            },
+                            "children": [
+                                {
+                                    "id": "647cabc317056d97b2aefee1",
+                                    "widgetType": "IMAGE",
+                                    "positionInParent": 1,
+                                    "inventoryName": "nykaa.pd-page-banner-all-v2",
+                                    "params": {
+                                        "src": "https://images-static.nykaa.com/uploads/ef250bf4-db9e-4b2b-8ea4-9793fb02d528.jpeg",
+                                        "aspectRatio": 45.6,
+                                        "url": "http://www.nykaa.com",
+                                        "textAreaOpacity": "",
+                                        "textPosition": "below_image",
+                                        "isDesktop": true
+                                    },
+                                    "children": [],
+                                    "inheritParams": {},
+                                    "trackingData": {
+                                        "namespace0": "pd-page",
+                                        "namespace1": "pd-page-banner-all-v2",
+                                        "lang": "en",
+                                        "position1": 1,
+                                        "pageData1": "",
+                                        "pageData2": "all",
+                                        "position2": 1,
+                                        "wtype": "BANNER_V2",
+                                        "wtype_version": "v2",
+                                        "brand_ids": [
+                                            "-1"
+                                        ],
+                                        "dn_tracking_metadata": ""
+                                    },
+                                    "isDesktop": true,
+                                    "store": "nykaa",
+                                    "pagePrefix": "",
+                                    "previewMode": false,
+                                    "pwType": "BANNER_V2",
+                                    "devModeData": "{\"dn_widget_id\":\"647cabc317056d97b2aefee1\",\"dn_inventory_id\":\"64528df238d698aca91e82f2\",\"dn_inventory_name\":\"nykaa.pd-page-banner-all-v2\",\"dn_page_type\":\"pd-page\",\"dn_page_section\":\"pd-page-banner-all-v2\",\"dn_page_data\":\"all\",\"dn_widget_type\":\"IMAGE\",\"dn_parent_widget_type\":\"BANNER_V2\"}"
+                                }
+                            ],
+                            "inheritParams": {
+                                "url": "http://www.nykaa.com"
+                            },
+                            "trackingData": {
+                                "namespace0": "pd-page",
+                                "namespace1": "pd-page-banner-all-v2",
+                                "lang": "en",
+                                "position1": 1,
+                                "pageData1": "",
+                                "pageData2": "all",
+                                "namespace2": "prive-platinum-3x",
+                                "position2": 7,
+                                "transaction_id": "ade294d46d7bfb085f2edb4035a288c7",
+                                "categories": "",
+                                "wtype": "CAROUSEL_V2",
+                                "wtype_version": "v2",
+                                "brand_ids": [
+                                    "-1"
+                                ],
+                                "dn_tracking_metadata": "{\"Mobile\":\"https://images-static.nykaa.com/uploads/0c0c0d53-46a6-40c1-9963-a868146e2366.jpg\",\"dn_request_id\":\"1-647dbd9f-536eedcd6261afc91cffdec2\",\"tile_id\":\"647cabb201e2ba62fbe117dc\",\"tile_source\":\"default\",\"widget_type\":\"BANNER_V2\"}"
+                            },
+                            "isDesktop": true,
+                            "store": "nykaa",
+                            "pagePrefix": "",
+                            "previewMode": false,
+                            "pwType": "CAROUSEL_V2",
+                            "devModeData": "{\"dn_widget_id\":\"647cabb201e2ba62fbe117dc\",\"dn_inventory_id\":\"64528df238d698aca91e82f2\",\"dn_inventory_name\":\"nykaa.pd-page-banner-all-v2\",\"dn_page_type\":\"pd-page\",\"dn_page_section\":\"pd-page-banner-all-v2\",\"dn_page_data\":\"all\",\"dn_widget_type\":\"BANNER_V2\",\"dn_parent_widget_type\":\"CAROUSEL_V2\"}"
+                        },
+                        {
+                            "id": "645296c1d2612d6a637ee61e",
+                            "widgetType": "BANNER_V2",
+                            "positionInParent": 6,
+                            "inventoryName": "nykaa.pd-page-banner-all-v2",
+                            "params": {
+                                "appLinkType": "non_clickable",
+                                "appLinkData": "",
+                                "trackingParams": "nykaa:other:pd-page:all:pd-page-banner-all-v2:CAROUSEL_V2:1:tobelapsed:-1:d909b7feceb4e3bdff182b22d6660b31",
+                                "url": "http://www.nykaa.com",
+                                "title": "",
+                                "callOut": "",
+                                "tagType": "text",
+                                "tagText": "",
+                                "tagTimerEnd": "",
+                                "timerEndText": "",
+                                "description": "",
+                                "actionType": "none",
+                                "trackingParameters": "tobelapsed",
+                                "section": "primary",
+                                "randomize": "yes",
+                                "childWidthDesktop": "",
+                                "callOut2": "",
+                                "callOut3": "",
+                                "textAreaOpacity": "",
+                                "textPosition": "below_image",
+                                "isDesktop": true
+                            },
+                            "children": [
+                                {
+                                    "id": "6475ae63c6b7cd8c35c371c3",
+                                    "widgetType": "IMAGE",
+                                    "positionInParent": 1,
+                                    "inventoryName": "nykaa.pd-page-banner-all-v2",
+                                    "params": {
+                                        "src": "https://images-static.nykaa.com/uploads/16797fb0-9580-415d-a016-e304a3440a25.jpg",
+                                        "aspectRatio": 4,
+                                        "url": "http://www.nykaa.com",
+                                        "textAreaOpacity": "",
+                                        "textPosition": "below_image",
+                                        "isDesktop": true
+                                    },
+                                    "children": [],
+                                    "inheritParams": {},
+                                    "trackingData": {
+                                        "namespace0": "pd-page",
+                                        "namespace1": "pd-page-banner-all-v2",
+                                        "lang": "en",
+                                        "position1": 1,
+                                        "pageData1": "",
+                                        "pageData2": "all",
+                                        "position2": 1,
+                                        "wtype": "BANNER_V2",
+                                        "wtype_version": "v2",
+                                        "brand_ids": [
+                                            "-1"
+                                        ],
+                                        "dn_tracking_metadata": ""
+                                    },
+                                    "isDesktop": true,
+                                    "store": "nykaa",
+                                    "pagePrefix": "",
+                                    "previewMode": false,
+                                    "pwType": "BANNER_V2",
+                                    "devModeData": "{\"dn_widget_id\":\"6475ae63c6b7cd8c35c371c3\",\"dn_inventory_id\":\"64528df238d698aca91e82f2\",\"dn_inventory_name\":\"nykaa.pd-page-banner-all-v2\",\"dn_page_type\":\"pd-page\",\"dn_page_section\":\"pd-page-banner-all-v2\",\"dn_page_data\":\"all\",\"dn_widget_type\":\"IMAGE\",\"dn_parent_widget_type\":\"BANNER_V2\"}"
+                                }
+                            ],
+                            "inheritParams": {
+                                "url": "http://www.nykaa.com"
+                            },
+                            "trackingData": {
+                                "namespace0": "pd-page",
+                                "namespace1": "pd-page-banner-all-v2",
+                                "lang": "en",
+                                "position1": 1,
+                                "pageData1": "",
+                                "pageData2": "all",
+                                "namespace2": "tobelapsed",
+                                "position2": 8,
+                                "transaction_id": "d909b7feceb4e3bdff182b22d6660b31",
+                                "categories": "",
+                                "wtype": "CAROUSEL_V2",
+                                "wtype_version": "v2",
+                                "brand_ids": [
+                                    "-1"
+                                ],
+                                "dn_tracking_metadata": "{\"Mobile\":\"https://images-static.nykaa.com/uploads/a6f4b0eb-2081-4ae5-85c0-d0657d4b5a23.jpg\",\"dn_request_id\":\"1-647dbd9f-536eedcd6261afc91cffdec2\",\"tile_id\":\"645296c1d2612d6a637ee61e\",\"tile_source\":\"default\",\"widget_type\":\"BANNER_V2\"}"
+                            },
+                            "isDesktop": true,
+                            "store": "nykaa",
+                            "pagePrefix": "",
+                            "previewMode": false,
+                            "pwType": "CAROUSEL_V2",
+                            "devModeData": "{\"dn_widget_id\":\"645296c1d2612d6a637ee61e\",\"dn_inventory_id\":\"64528df238d698aca91e82f2\",\"dn_inventory_name\":\"nykaa.pd-page-banner-all-v2\",\"dn_page_type\":\"pd-page\",\"dn_page_section\":\"pd-page-banner-all-v2\",\"dn_page_data\":\"all\",\"dn_widget_type\":\"BANNER_V2\",\"dn_parent_widget_type\":\"CAROUSEL_V2\"}"
+                        }
+                    ],
+                    "inheritParams": {
+                        "textAreaOpacity": "",
+                        "textPosition": "below_image"
+                    },
+                    "trackingData": {
+                        "namespace0": "pd-page",
+                        "namespace1": "pd-page-banner-all-v2",
+                        "lang": "en",
+                        "position1": 1,
+                        "pageData1": "",
+                        "pageData2": "all",
+                        "position2": 1,
+                        "wtype": "CAROUSEL_V2",
+                        "wtype_version": "v2",
+                        "brand_ids": [
+                            "-1"
+                        ],
+                        "dn_tracking_metadata": ""
+                    },
+                    "isDesktop": true,
+                    "store": "nykaa",
+                    "pagePrefix": "",
+                    "previewMode": false,
+                    "devModeData": "{\"dn_widget_id\":\"64528e98e7de9ce388bbc65d\",\"dn_inventory_id\":\"64528df238d698aca91e82f2\",\"dn_inventory_name\":\"nykaa.pd-page-banner-all-v2\",\"dn_page_type\":\"pd-page\",\"dn_page_section\":\"pd-page-banner-all-v2\",\"dn_page_data\":\"all\",\"dn_widget_type\":\"CAROUSEL_V2\"}"
+                }
+            }
+        ],
+        "product": {
+            "brandName": "Lakme",
+            "brandAuth": {
+                "text": "100% Authentic, directly purchased from Lakme.",
+                "icon": "https://images-static.naikaa.com/media/wysiwyg/2023/authentic-badge-24.png",
+                "certificate": "https://adn-static2.nykaa.com/auth-img-nka/HUL_Certifcate_5cfa16562c9b0.jpg"
+            },
+            "buttonText": "ADD TO BAG",
+            "newButtonText": "Add to Bag",
+            "canSubscribe": false,
+            "categoryLevels": {
+                "0": "12",
+                "1": "14",
+                "2": "687"
+            },
+            "description": "<style type=\"text/css\"> .aplus-Cont-Wrapper{width:770px; margin:0 auto;}. aplus-Container img{max-width: 100%; margin-bottom: 8px;}. aplus-Container p{font-size: 10px; color: #000; font-weight: 400; text-align: justify;}. aplus-Container h1, . aplus-Container h2, . aplus-Container h3, . aplus-Container h4, . aplus-Container h5, . aplus-Container h6{font-weight: 700; margin-bottom: 20px; display: block;}. aplus -Container h1{text-transform: uppercase; font-size: 25px; text-align: center; margin-bottom: 30px;}. aplus -Container h2{font-size: 18px; color: #000; font-weight: 600; letter-spacing: -1px; text-align: left;}. aplus -Container h4{font-size: 17px;}. aplus -Container h5{font-size: 15px;}</style><div class=\"aplus-Cont-Wrapper\"> <div class=\"aplus-Container\"> <div class=\"aplus-Cont-Row\"> <div class=\"aplus-Cont-sec\"> <img src=\"https://adn-static2.nykaa.com/media/wysiwyg/LAKME00000332_1.jpg\" alt=\"Lakme\"> </div><div class=\"aplus-Cont-sec\"> <img src=\"https://adn-static2.nykaa.com/media/wysiwyg/LAKME00000332_2.jpg\" alt=\"Lakme\"> </div><div class=\"aplus-Cont-sec\"> <img src=\"https://adn-static2.nykaa.com/media/wysiwyg/LAKME00000332_3.jpg\" alt=\"Lakme\"> </div><div class=\"aplus-Cont-sec\"> <img src=\"https://adn-static2.nykaa.com/media/wysiwyg/LAKME00000332_4.jpg\" alt=\"Lakme\"> </div></div></div></div><br><br><p>Explore the entire range of <a href=\"https://www.nykaa.com/makeup/eyes/kajal/c/687?ptype=lst&id=687\" target=_blank> <u>Kajal</u></font></a> available on Nykaa. Shop more <a href=\"https://www.nykaa.com/brands/lakme/c/604?ptype=brand&id=604\" target=_blank> <u>Lakme</u></font></a> products here.You can browse through the complete world of <a href=\"https://www.nykaa.com/brands/lakme/c/604?ptype=brand&id=604&category_filter=687&sort=popularity\" target=_blank> <u> Lakme Kajal </u></font></a>.",
+            "discount": 10,
+            "id": "3982605",
+            "isLux": 0,
+            "isKitCombo": false,
+            "inStock": true,
+            "metaDescription": "Buy Lakme Eyeconic Kajal - Twin Pack online from Nykaa.com at Best Price",
+            "metaKeywords": "Lakme Eyeconic Kajal - Twin Pack,Makeup,Eyes,Kajal",
+            "metaTitle": "Lakme Eyeconic Kajal - Twin Pack at Nykaa.com",
+            "mrp": 350,
+            "name": "Lakme Eyeconic Kajal - Twin Pack",
+            "offerPrice": 315,
+            "offers": [],
+            "variants": [],
+            "parentId": "3982605",
+            "packSize": "0.7gm",
+            "parentMedia": [
+                {
+                    "url": "https://images-static.nykaa.com/media/catalog/product/6/f/6fc082bLAKME00000332_001new.jpg",
+                    "mediaType": "image"
+                },
+                {
+                    "url": "https://images-static.nykaa.com/media/catalog/product/6/f/6fc082bLAKME00000332_01new.jpg",
+                    "mediaType": "image"
+                },
+                {
+                    "url": "https://images-static.nykaa.com/media/catalog/product/6/f/6fc082bLAKME00000332_1new.jpg",
+                    "mediaType": "image"
+                },
+                {
+                    "url": "https://images-static.nykaa.com/media/catalog/product/6/f/6fc082bLAKME00000332_2new.jpg",
+                    "mediaType": "image"
+                },
+                {
+                    "url": "https://images-static.nykaa.com/media/catalog/product/6/f/6fc082bLAKME00000332_3new.jpg",
+                    "mediaType": "image"
+                },
+                {
+                    "url": "https://images-static.nykaa.com/media/catalog/product/6/f/6fc082bLAKME00000332_4new.jpg",
+                    "mediaType": "image"
+                },
+                {
+                    "url": "https://images-static.nykaa.com/media/catalog/product/6/f/6fc082bLAKME00000332_5new.jpg",
+                    "mediaType": "image"
+                },
+                {
+                    "url": "https://images-static.nykaa.com/media/catalog/product/6/f/6fc082bLAKME00000332_6new.jpg",
+                    "mediaType": "image"
+                },
+                {
+                    "url": "https://images-static.nykaa.com/media/catalog/product/6/f/6fc082bLAKME00000332_7new.jpg",
+                    "mediaType": "image"
+                },
+                {
+                    "url": "https://images-static.nykaa.com/media/catalog/product/6/f/6fc082bLAKME00000332_8new.jpg",
+                    "mediaType": "image"
+                },
+                {
+                    "url": "https://images-static.nykaa.com/media/catalog/product/6/f/6fc082bLAKME00000332_9new.jpg",
+                    "mediaType": "image"
+                },
+                {
+                    "url": "https://images-static.nykaa.com/media/catalog/product/6/f/6fc082bLAKME00000332_10new.jpg",
+                    "mediaType": "image"
+                }
+            ],
+            "parentCarousel": [
+                {
+                    "url": "https://images-static.nykaa.com/media/catalog/product/6/f/6fc082bLAKME00000332_001new.jpg",
+                    "mediaType": "image",
+                    "id": "0-main_image"
+                },
+                {
+                    "url": "https://images-static.nykaa.com/media/catalog/product/6/f/6fc082bLAKME00000332_01new.jpg",
+                    "mediaType": "image",
+                    "id": "1-main_image"
+                },
+                {
+                    "url": "https://images-static.nykaa.com/media/catalog/product/6/f/6fc082bLAKME00000332_1new.jpg",
+                    "mediaType": "image",
+                    "id": "2-main_image"
+                },
+                {
+                    "url": "https://images-static.nykaa.com/media/catalog/product/6/f/6fc082bLAKME00000332_2new.jpg",
+                    "mediaType": "image",
+                    "id": "3-main_image"
+                },
+                {
+                    "url": "https://images-static.nykaa.com/media/catalog/product/6/f/6fc082bLAKME00000332_3new.jpg",
+                    "mediaType": "image",
+                    "id": "4-main_image"
+                },
+                {
+                    "url": "https://images-static.nykaa.com/media/catalog/product/6/f/6fc082bLAKME00000332_4new.jpg",
+                    "mediaType": "image",
+                    "id": "5-main_image"
+                },
+                {
+                    "url": "https://images-static.nykaa.com/media/catalog/product/6/f/6fc082bLAKME00000332_5new.jpg",
+                    "mediaType": "image",
+                    "id": "6-main_image"
+                },
+                {
+                    "url": "https://images-static.nykaa.com/media/catalog/product/6/f/6fc082bLAKME00000332_6new.jpg",
+                    "mediaType": "image",
+                    "id": "7-main_image"
+                },
+                {
+                    "url": "https://images-static.nykaa.com/media/catalog/product/6/f/6fc082bLAKME00000332_7new.jpg",
+                    "mediaType": "image",
+                    "id": "8-main_image"
+                },
+                {
+                    "url": "https://images-static.nykaa.com/media/catalog/product/6/f/6fc082bLAKME00000332_8new.jpg",
+                    "mediaType": "image",
+                    "id": "9-main_image"
+                },
+                {
+                    "url": "https://images-static.nykaa.com/media/catalog/product/6/f/6fc082bLAKME00000332_9new.jpg",
+                    "mediaType": "image",
+                    "id": "10-main_image"
+                },
+                {
+                    "url": "https://images-static.nykaa.com/media/catalog/product/6/f/6fc082bLAKME00000332_10new.jpg",
+                    "mediaType": "image",
+                    "id": "11-main_image"
+                },
+                {
+                    "title": "Eyeconic Kajal",
+                    "appUrl": "https://d286adtp3hdk00.cloudfront.net/out/v1/08ec5b481f614c008099eb1f7e3fd9cc/d7f75d30121848469e2dda945535d8be/d2211371f955441ba6e589c507bb6cb4/index.m3u8",
+                    "webUrl": "https://d286adtp3hdk00.cloudfront.net/LAKME00000332_Eyeconic Kajal.mp4",
+                    "videoId": "EDNA_VIDEO00016328",
+                    "duration": 20,
+                    "mediaType": "video",
+                    "aspectRatio": 0.5625,
+                    "thumbnailUrl": "https://d286adtp3hdk00.cloudfront.net/e2561ddc-061c-4136-99d4-93d7d68b84c9/thumbnails/LAKME00000332_Eyeconic Kajal_thumb.0000003.jpg",
+                    "url": "https://d286adtp3hdk00.cloudfront.net/LAKME00000332_Eyeconic Kajal.mp4",
+                    "id": "EDNA_VIDEO00016328"
+                }
+            ],
+            "parentRelatedVideo": [
+                {
+                    "title": "Eyeconic Kajal",
+                    "appUrl": "https://d286adtp3hdk00.cloudfront.net/out/v1/08ec5b481f614c008099eb1f7e3fd9cc/d7f75d30121848469e2dda945535d8be/d2211371f955441ba6e589c507bb6cb4/index.m3u8",
+                    "webUrl": "https://d286adtp3hdk00.cloudfront.net/LAKME00000332_Eyeconic Kajal.mp4",
+                    "videoId": "EDNA_VIDEO00016328",
+                    "duration": 20,
+                    "mediaType": "video",
+                    "aspectRatio": 0.5625,
+                    "thumbnailUrl": "https://d286adtp3hdk00.cloudfront.net/e2561ddc-061c-4136-99d4-93d7d68b84c9/thumbnails/LAKME00000332_Eyeconic Kajal_thumb.0000003.jpg",
+                    "url": "https://d286adtp3hdk00.cloudfront.net/LAKME00000332_Eyeconic Kajal.mp4",
+                    "id": "EDNA_VIDEO00016328"
+                }
+            ],
+            "primaryCategories": {
+                "l1": {
+                    "id": "12",
+                    "name": "Makeup"
+                },
+                "l2": {
+                    "id": "14",
+                    "name": "Eyes"
+                },
+                "l3": {
+                    "id": "687",
+                    "name": "Kajal"
+                }
+            },
+            "productType": "simple",
+            "quantity": 2452,
+            "rating": 4.5,
+            "ratingCount": 13788,
+            "returnMessage": "Returns/replacements are accepted for unused products only in case of defects, damages during delivery, missing, or wrong products delivered. Return requests can be raised on the 'My Order' section within 15 days of delivery.",
+            "reviewCount": "402",
+            "sku": "LAKME00000332",
+            "slug": "lakme-eyeconic-kajal-twin-pack/p/3982605",
+            "ingredients": null,
+            "howToUse": null,
+            "originOfCountryName": "India",
+            "countryOfManufacture": null,
+            "manufacturerName": "Hindustan Unilever Ltd",
+            "manufacturerAddress": "Hindustan Unilever Ltd. Units-6, Plot No.-1 (F-1), Sector 1A, I.I.E, Ranipur, Haridwar 249403, Uttarakhand, Unit 4, I. Ind. Estate, Haridwar 249403, Uttarakhand.",
+            "manufacture": [
+                {
+                    "originOfCountryName": "India",
+                    "manufacturerName": "Hindustan Unilever Ltd",
+                    "manufacturerAddress": "Hindustan Unilever Ltd. Units-6, Plot No.-1 (F-1), Sector 1A, I.I.E, Ranipur, Haridwar 249403, Uttarakhand, Unit 4, I. Ind. Estate, Haridwar 249403, Uttarakhand.",
+                    "packerName": null,
+                    "packerAddress": null,
+                    "importerName": null,
+                    "importerAddress": null,
+                    "manufacturerNameLabel": "Manufacturer: ",
+                    "manufacturerAddressLabel": "Address: ",
+                    "packerNameLabel": "Packer: ",
+                    "packerAddressLabel": "Address: ",
+                    "importerNameLabel": "Importer: ",
+                    "importerAddressLabel": "Address: ",
+                    "countryOfOriginLabel": "Country of Origin: "
+                }
+            ],
+            "expiry": "15 January 2025",
+            "exploreMore": {
+                "brand": {
+                    "url": "/brands/lakme/c/604?ptype=brand&id=604",
+                    "message": "See more products from Lakme",
+                    "id": "604"
+                },
+                "category": {
+                    "message": "See more Kajal products",
+                    "id": "687",
+                    "url": "/makeup/eyes/kajal/c/687?ptype=lst&id=687"
+                },
+                "brand_plus_cat": {
+                    "brand_id": "604",
+                    "category_id": "687",
+                    "message": "See more Kajal products from Lakme",
+                    "url": "/brands/lakme/c/604?ptype=brand&id=604&category_filter=687&sort=popularity"
+                },
+                "filters": {
+                    "id": "687",
+                    "type": "price",
+                    "filter_value": "0-499",
+                    "url": "/makeup/eyes/kajal/c/687?ptype=lst&id=687&price_range_filter=0-499&sort=popularity",
+                    "message": "See more Kajal products in this price range"
+                }
+            },
+            "tags": [],
+            "proFlag": 0,
+            "returnAvailable": true,
+            "messageOnReturn": "Returns/replacements are accepted for unused products only in case of defects, damages during delivery, missing, or wrong products delivered. Return requests can be raised on the 'My Order' section within 15 days of delivery.",
+            "onlyWishlistButton": 0,
+            "imageUrl": "https://images-static.nykaa.com/media/catalog/product/tr:h-800,w-800,cm-pad_resize/6/f/6fc082bLAKME00000332_001new.jpg",
+            "isBackorder": false,
+            "qnaCount": 0,
+            "reviewSplitUp": [
+                {
+                    "count": "9998",
+                    "per": 72.51232956193792,
+                    "id": 5
+                },
+                {
+                    "count": "1965",
+                    "per": 14.251523063533508,
+                    "id": 4
+                },
+                {
+                    "count": "745",
+                    "per": 5.403249202204816,
+                    "id": 3
+                },
+                {
+                    "count": "336",
+                    "per": 2.4369016536118364,
+                    "id": 2
+                },
+                {
+                    "count": "744",
+                    "per": 5.395996518711923,
+                    "id": 1
+                }
+            ],
+            "sellerName": "Nykaa E retail private limited",
+            "sizeData": {
+                "enabled": false,
+                "buttonText": "size chart",
+                "unitText": "",
+                "units": [],
+                "columns": []
+            },
+            "latestReviews": [
+                {
+                    "title": "Powdery substance ",
+                    "description": "Kajal pencil sticks have white powdery substance ",
+                    "name": "Any Sharma",
+                    "createdOn": "2023-02-03 13:35:46",
+                    "likeCount": "7",
+                    "id": 32838159,
+                    "variantId": 3982605,
+                    "isBuyer": true,
+                    "images": [
+                        "https://images-static.nykaa.com/prod-review/1675431604456_617ff0de-664c-474c-a55a-dc11bc65908d_1.jpg",
+                        "https://images-static.nykaa.com/prod-review/1675431699342_0858ff4c-e817-401d-ac30-f28fb50de223_1.jpg",
+                        "https://images-static.nykaa.com/prod-review/1675432112490_2e3b87ee-9a07-4f86-a867-cff97091d4f0_1.jpg",
+                        "https://images-static.nykaa.com/prod-review/1675432216264_bfef4066-9a36-4be4-8ced-6cefe6fd157c_1.jpg",
+                        "https://images-static.nykaa.com/prod-review/1675432259237_881f63e1-248d-4dfe-8620-1f2360396ba8_1.jpg"
+                    ],
+                    "profilePic": "https://images-static.nykaa.com/prod-review/default_profile_image.png",
+                    "createdOnText": "03/02/2023",
+                    "rating": 5
+                },
+                {
+                    "title": "Lakme eyeconic kajal",
+                    "description": "Twin pack i order i like it....nd long elastic ",
+                    "name": "Manoja E",
+                    "createdOn": "2022-08-09 13:28:14",
+                    "likeCount": "12",
+                    "id": 27603581,
+                    "variantId": 3982605,
+                    "isBuyer": true,
+                    "images": [
+                        "https://images-static.nykaa.com/prod-review/1660051851797_58509e17-9ce1-47eb-9bf7-14592f35e231_1.jpg",
+                        "https://images-static.nykaa.com/prod-review/1660051873404_f4b53034-e435-4eac-b7a8-037d857f6c17_1.jpg",
+                        "https://images-static.nykaa.com/prod-review/1660051892983_a4a5347f-04b2-411a-a160-fd52eef7d776_1.jpg",
+                        "https://images-static.nykaa.com/prod-review/1660051907408_71328720-1742-4532-822d-a5a0a6aeb60b_1.jpg"
+                    ],
+                    "profilePic": "https://images-static.nykaa.com/prod-review/default_profile_image.png",
+                    "createdOnText": "09/08/2022",
+                    "rating": 5
+                },
+                {
+                    "title": "Good product ",
+                    "description": "It's a good product . 24 hrs long lasting. Smudge proof and water proof.",
+                    "name": "Athulya Jose",
+                    "createdOn": "2023-02-12 20:59:30",
+                    "likeCount": "0",
+                    "id": 33165274,
+                    "variantId": 3982605,
+                    "isBuyer": true,
+                    "images": [
+                        "https://images-static.nykaa.com/prod-review/1676290931960_0188a355-e75d-4a95-8040-1e2effdf7195_1.jpg",
+                        "https://images-static.nykaa.com/prod-review/1676290994565_8b0bf748-6c2b-45c2-9c92-bd28f54632ae_1.jpg"
+                    ],
+                    "profilePic": "https://images-static.nykaa.com/prod-review/default_profile_image.png",
+                    "createdOnText": "12/02/2023",
+                    "rating": 5
+                },
+                {
+                    "title": "Super good kajal ?",
+                    "description": "Highly recommended to buy??\r\nOne of the best kajal i always love this ??\r\nFrom past 3years am using same kajal \r\nIt's so so good\r\nIt's waterproof and smudge proof \r\n\r\n",
+                    "name": "Rishana",
+                    "createdOn": "2023-01-21 12:12:07",
+                    "likeCount": "1",
+                    "id": 32540624,
+                    "variantId": 3982605,
+                    "isBuyer": true,
+                    "images": [
+                        "https://images-static.nykaa.com/prod-review/1674303183983_446f02e9-0a70-4441-9db2-26e82dd1bccd_1.jpg",
+                        "https://images-static.nykaa.com/prod-review/1674303270712_42b6d9ee-b7f2-4c60-8bc0-5fc06c49c8aa_1.jpg"
+                    ],
+                    "profilePic": "https://images-static.nykaa.com/prod-review/default_profile_image.png",
+                    "createdOnText": "21/01/2023",
+                    "rating": 5
+                },
+                {
+                    "title": "Amazing ",
+                    "description": "It\u2019s amazing kajal from lakm\u0113..I\u2019m using this kajal almost from 4 years..this combo pack is wonderful..i got this at rs215..thankyou nykaa",
+                    "name": "Poojitha Darimadugu",
+                    "createdOn": "2022-11-27 12:08:13",
+                    "likeCount": "4",
+                    "id": 30808386,
+                    "variantId": 3982605,
+                    "isBuyer": true,
+                    "images": [
+                        "https://images-static.nykaa.com/prod-review/1669551097072_4dccff82-c3ad-40e9-8e0a-c17253fb8c54_1.jpg",
+                        "https://images-static.nykaa.com/prod-review/1669551171887_8d589eca-b7cb-440a-acc6-233a0fb32a6b_1.jpeg"
+                    ],
+                    "profilePic": "https://images-static.nykaa.com/prod-review/default_profile_image.png",
+                    "createdOnText": "27/11/2022",
+                    "rating": 5
+                }
+            ],
+            "title": "Lakme Eyeconic Kajal - Twin Pack",
+            "tryItOn": 0,
+            "isSearchable": true,
+            "selectedVariantId": "3982605"
+        },
+        "activeTab": 0,
+        "remaining_inventories_ids": [],
+        "queryParamsObject": {
+            "page_type": "pd-page",
+            "page_section": "*",
+            "device": "desktop",
+            "platform": "dweb",
+            "page_data": "all",
+            "api_version": ""
+        },
+        "isNotFound": false
+    },
+    "searchSuggestions": {
+        "productSuggestions": [],
+        "otherSuggestions": [],
+        "trendingSearches": [],
+        "searchAutoSuggestions": [],
+        "searchField": ""
+    },
+    "reviewImages": {
+        "images": [],
+        "imagesWithInfo": {
+            "imageUrl": [],
+            "review": []
+        },
+        "productId": null,
+        "totalImagesAvailable": 0,
+        "loading": false,
+        "isNotFound": false,
+        "isFetchingError": false,
+        "nextPageKey": "",
+        "hasLoaded": false,
+        "isServerError": false,
+        "stopFurtherCall": false
+    },
+    "remoteConfig": {
+        "switches": {
+            "showOffersOnPdp": true,
+            "showRewardPoints": true,
+            "showViewSimilar": true,
+            "newRatingForm": true,
+            "showDeliveryOnPd": true,
+            "internationalMode": false,
+            "redirectionList": [],
+            "trackDeviceId": false,
+            "pdPageBanners": true,
+            "offerListingEnabled": true,
+            "appLinkEnabled": true,
+            "featuresEnabled": true,
+            "socialLinksEnabled": true,
+            "newsletterEnabled": true,
+            "helpCenterEnabled": true,
+            "mobileNumberMapping": true,
+            "showUserPortfolio": false,
+            "webOtpAutoRead": true,
+            "vpEnabled": true,
+            "experimentV2Enabled": true,
+            "analyticsV2Enabled": true,
+            "analyticsFetchEnabled": false,
+            "loadInterFont": true,
+            "dwebPdpCustomVideo": true,
+            "personalizationEnabled": true,
+            "fetchWishlistIds": true,
+            "suggestMobileMap": true,
+            "isPaginationEnabled": true,
+            "universalBanners": true,
+            "mySavedPayment": true,
+            "emailVerification": true,
+            "isWriteReviewElibilityEnabled": true,
+            "urlMapsEnabled": true,
+            "newRelicClientEnable": true
+        },
+        "configs": {
+            "rootMargin": "0px",
+            "whitelistedDomains": [
+                "www.nykaa.com",
+                "api.nykaa.com",
+                "adn-static2.nykaa.com",
+                "adn-static1.nykaa.com",
+                "prod-events.nykaa.com"
+            ],
+            "customersAlsoBought": {
+                "status": false
+            },
+            "customersAlsoViewed": {
+                "status": false
+            },
+            "rewardPointsOnSignUp": 2000,
+            "upiOffer": {
+                "status": false,
+                "message": "Get upto \u20b940 OFF on BHIM UPI Payment"
+            },
+            "priceReveal": {
+                "active": false,
+                "productEligibilityActive": false,
+                "data": {
+                    "bucket": "PinkSummerBox2023",
+                    "pinkBoxUrl": "/saleBox/?ptype=saleBox&saleId=pink-summer-sale",
+                    "saleOfferTitle": "PINK SUMMER OFFER",
+                    "colors": {
+                        "offerTitle": "#000000",
+                        "offerPrice": "#000000",
+                        "offerDiscount": "#000000",
+                        "offerDescription": "#000000"
+                    },
+                    "primaryActionLabel": "Add To Pink Box",
+                    "secondaryActionLabel": "Go To Pink Box",
+                    "alreadyAddedToBoxInfo": "You added this product to your Pink Box",
+                    "addedToBoxToastMessage": "Added to Pink Box",
+                    "addedToBoxErrorMessage": "Couldn't Add to Pink Box, Try again"
+                }
+            },
+            "productEligibilityService": {
+                "active": false,
+                "eligility": {}
+            },
+            "trendingSearchesToShow": 5,
+            "maxSearchHistoryCount": 5,
+            "storeOptions": {
+                "status": false,
+                "backToBeautyText": "Nykaa Main Store",
+                "exploreMoreStores": "https://images-static.nykaa.com/media/explore_stores_v5.png",
+                "stores": []
+            },
+            "contentPolicy": {
+                "status": true,
+                "value": "img-src 'self' data: *.nykaa.com *.naikaa.com fsnecommerce.sc.omtrdc.net evbk.gamooga.com webevbk.gamooga.com www.google-analytics.com www.google.com www.google.co.in www.facebook.com stats.g.doubleclick.net cm.everesttech.net www.googletagmanager.com *.criteo.net *.criteo.com www.youtube.com dpm.demdex.net cm.g.doubleclick.net  www.gstatic.com m.youtube.com cdn-jp.gsecondscreen.com *.googlesyndication.com googleads.g.doubleclick.net d286adtp3hdk00.cloudfront.net;script-src 'self' 'unsafe-inline' 'unsafe-eval' *.nykaa.com *.naikaa.com assets.adobedtm.com www.googletagmanager.com www.google-analytics.com  www.googleadservices.com *.criteo.net *.criteo.com connect.facebook.net cdn-jp.gsecondscreen.com googleads.g.doubleclick.net apis.google.com *.netcoresmartech.com ae.gsecondscreen.com evbk.gamooga.com webevbk.gamooga.com *.speedcurve.com nykaa.verloop.io cdn-ops.verloop.io cdn.speedcurve.com lux.speedcurve.com cdn.nykaaman.com https://11310639.fls.doubleclick.net/activityi googleads.g.doubleclick.net *.googlesyndication.com connect.facebook.net *.clarity.ms traqkar.com cakecdn.com/jssdk/lib.js https://script.mfilterit.net/v3/v/client/web.nykaabeauty.cpv.js accounts.google.com https://www.artfut.com/static/tracking.min.js https://www.artfut.com/static/tagtag.min.js https://www.artfut.com/static/crossdevice.min.js https://ad.admitad.com/tt/ https://cdn.mxpnl.com/libs/mixpanel-js-wrapper.js https://cdn.mxpnl.com/libs/mixpanel-2-latest.min.js https://js-agent.newrelic.com https://bam.nr-data.net;frame-ancestors 'self' ;upgrade-insecure-requests;form-action 'self' ;object-src 'none' ;report-uri https://o1.ingest.sentry-prod.nykaa.com/api/50/security/?sentry_key=0fedf4f8d3b84b0b8fb2ad1eec027fb4;",
+                "userPercentage": 10,
+                "headerKey": "Content-Security-Policy"
+            },
+            "sortForListing": [
+                {
+                    "name": "popularity",
+                    "key": "popularity"
+                },
+                {
+                    "name": "discount",
+                    "key": "discount"
+                },
+                {
+                    "name": "name",
+                    "key": "name"
+                },
+                {
+                    "name": "customer top rated",
+                    "key": "customer_top_rated"
+                },
+                {
+                    "name": "new arrivals",
+                    "key": "new_arrival"
+                },
+                {
+                    "name": "price: high to low",
+                    "key": "price_desc"
+                },
+                {
+                    "name": "price: low to high",
+                    "key": "price_asc"
+                }
+            ],
+            "freeShipping": 299,
+            "homePage": {
+                "initialInventories": 10,
+                "eagerLoadImages": 6,
+                "pageTypeSuffix": {
+                    "status": true,
+                    "suffix": "sale"
+                }
+            },
+            "meta": {
+                "allReviewsPage": {
+                    "title": "Product_Name Reviews Online | Nykaa",
+                    "description": "Read genuine reviews of Product_Name by verified buyers at Nykaa.com. Shop for 100% authentic products from Nykaa.com."
+                },
+                "productPage": {
+                    "title": "Product_Name: Buy Product_Name Online at Best Price in India | Nykaa",
+                    "description": "Product_Name Online: Buy Product_Name at best price from Nykaa. Check out Product_Name review. \u2713COD \u2713Free Shipping"
+                },
+                "brandPage": {
+                    "title": "Brand_Name: Buy Brand_Name Products Online at Best Price in India",
+                    "description": "Buy Brand_Name products at best price from Nykaa. Shop for 100% authentic & genuine Brand_Name products. \u2713COD \u2713Free Shipping \u2713Easy Returns \u2713Verified Reviews"
+                },
+                "searchPage": {
+                    "title": "Buy Cosmetics Products & Beauty Products Online in India at Best Price | Nykaa",
+                    "description": "Buy cosmetics &amp; beauty products online from Nykaa, the online shopping beauty store. Browse makeup, health products &amp; more from top beauty brands. \u2714 free shipping* \u2714 Cash on Delivery",
+                    "keywords": "Nykaa, Nyka, Nykaa.com, Nika, Nyyka, Nyka.com, Nykaa online, Nykaa India, buy cosmetics online, cosmetics online, buy beauty products online, beauty products online, buy cosmetics india, buy beauty products india"
+                }
+            },
+            "guidedSearch": {
+                "userPercentage": 0,
+                "status": false
+            },
+            "searchSuggestionIcons": {
+                "query": "https://www.nykaa.com/media/wysiwyg/2020/search.svg",
+                "buying_guide": "https://www.nykaa.com/media/wysiwyg/2020/buying-guide.svg",
+                "history": "https://www.nykaa.com/media/wysiwyg/2020/clock.svg",
+                "trending": "https://www.nykaa.com/media/wysiwyg/2020/ic-trending.svg"
+            },
+            "AB": {
+                "dweblstMigration": {
+                    "status": true,
+                    "userPercentage": 100,
+                    "keyName": "ab_dweb_listingpage",
+                    "cookie": "D_LST"
+                },
+                "dwebPdpMigration": {
+                    "status": true,
+                    "userPercentage": 100,
+                    "keyName": "ab_dweb_pdp",
+                    "cookie": "D_PDP"
+                },
+                "autoFillSignUp": {
+                    "status": true,
+                    "userPercentage": 100,
+                    "keyName": "ab_autoFill"
+                },
+                "emailSuggestion": {
+                    "status": true,
+                    "userPercentage": 100,
+                    "keyName": "ab_email_suggestion",
+                    "emailSuggestionList": {
+                        "@": [
+                            "gmail.com",
+                            "yahoo.com",
+                            "hotmail.com"
+                        ],
+                        "g": [
+                            "gmail.com"
+                        ],
+                        "y": [
+                            "yahoo.com",
+                            "yahoo.co.in",
+                            "yahoo.in"
+                        ],
+                        "h": [
+                            "hotmail.com",
+                            "hotmail.co.in"
+                        ],
+                        "o": [
+                            "outlook.com"
+                        ],
+                        "r": [
+                            "rediffmail.com",
+                            "rediff.com"
+                        ],
+                        "f": [
+                            "facebook.com"
+                        ],
+                        "i": [
+                            "icloud.com"
+                        ],
+                        "p": [
+                            "privaterelay.applied.com"
+                        ]
+                    }
+                },
+                "passwordLessFlow": {
+                    "status": true,
+                    "userPercentage": 100,
+                    "keyName": "ab_passwordLess"
+                }
+            },
+            "appLinks": {
+                "title": "experience the nykaa mobile app",
+                "googlePlay": "https://nykaa.onelink.me/2573509543/aba6fc39",
+                "appStore": "https://nykaa.onelink.me/2573509543/aba6fc39"
+            },
+            "features": {
+                "brandsCount": {
+                    "iconUrl": "https://adn-static2.nykaa.com/media/wysiwyg/2021/Brands.svg",
+                    "title": "1900+ Brands",
+                    "text": "1.2 Lakh+ Products"
+                },
+                "freeShip": {
+                    "iconUrl": "https://adn-static2.nykaa.com/media/wysiwyg/2021/Free-shipping.svg",
+                    "title": "Free Shipping",
+                    "text": "On Orders Above \u20b9"
+                },
+                "genuineProduct": {
+                    "iconUrl": "https://adn-static2.nykaa.com/media/wysiwyg/2021/Authenticity.svg",
+                    "title": "100% Authentic",
+                    "text": "Products Sourced Directly"
+                },
+                "easyReturns": {
+                    "iconUrl": "https://adn-static2.nykaa.com/media/wysiwyg/2021/return_accepted.svg",
+                    "title": "Easy Returns",
+                    "text": "15-Day Return Policy "
+                }
+            },
+            "socialLinks": {
+                "text": "show us some love \u2764 on social media",
+                "social": [
+                    {
+                        "title": "Instagram",
+                        "imgUrl": "https://images-static.naikaa.com/media/wysiwyg/2021/icons/ic_social-instagram-filled.svg",
+                        "link": "https://www.instagram.com/mynykaa/?ref=badge"
+                    },
+                    {
+                        "title": "Facebook",
+                        "imgUrl": "https://images-static.naikaa.com/media/wysiwyg/2021/icons/ic_social-facebook-filled.svg",
+                        "link": "https://www.facebook.com/MyNykaa"
+                    },
+                    {
+                        "title": "Youtube",
+                        "imgUrl": "https://images-static.naikaa.com/media/wysiwyg/2021/icons/ic_social-youtube-filled.svg",
+                        "link": "https://www.youtube.com/channel/UCoaH2UtB1PsV7av17woV1BA"
+                    },
+                    {
+                        "title": "Twitter",
+                        "imgUrl": "https://images-static.naikaa.com/media/wysiwyg/2021/icons/ic_social-twitter-filled.svg",
+                        "link": "https://twitter.com/MyNykaa"
+                    },
+                    {
+                        "title": "Pinterest",
+                        "imgUrl": "https://images-static.naikaa.com/media/wysiwyg/2021/icons/ic_social-pinterest-filled.svg",
+                        "link": "https://www.pinterest.com/mynykaa/"
+                    }
+                ]
+            },
+            "footerLinks": {
+                "Nykaa": [
+                    {
+                        "displayAs": "Who are we?",
+                        "redirectTo": "/who_are_we/?utm_source=Desktop_web_footer"
+                    },
+                    {
+                        "displayAs": "Careers",
+                        "redirectTo": "/who_are_we#wwrcopen"
+                    },
+                    {
+                        "displayAs": "Authenticity",
+                        "redirectTo": "/authenticity-nykaa-guarantee?utm_source=Desktop_web_footer"
+                    },
+                    {
+                        "displayAs": "Press",
+                        "redirectTo": "/who_are_we#wwrpress"
+                    },
+                    {
+                        "displayAs": "Testimonials",
+                        "redirectTo": "/who_are_we#wwrtestimonial"
+                    },
+                    {
+                        "displayAs": "Nykaa CSR",
+                        "redirectTo": "/nykaa-csr"
+                    },
+                    {
+                        "displayAs": "Responsible Disclosure",
+                        "redirectTo": "/responsible-disclosure"
+                    },
+                    {
+                        "displayAs": "Investor Relations",
+                        "redirectTo": "/investor-relations"
+                    }
+                ],
+                "Help": [
+                    {
+                        "displayAs": "Contact Us",
+                        "redirectTo": "https://www.nykaa.com/gateway-api/omsApis/helpCenter?domain=NYKAA"
+                    },
+                    {
+                        "displayAs": "Frequently asked questions",
+                        "redirectTo": "https://www.nykaa.com/gateway-api/omsApis/helpCenter?domain=NYKAA"
+                    },
+                    {
+                        "displayAs": "Store Locator",
+                        "redirectTo": "/nykaa-stores-and-events/?utm_source=Desktop_web_footer"
+                    },
+                    {
+                        "displayAs": "Cancellation & Return",
+                        "redirectTo": "/cancellation-policy/?utm_source=Desktop_web_footer"
+                    },
+                    {
+                        "displayAs": "Shipping & Delivery",
+                        "redirectTo": "/shipping-policy/?utm_source=Desktop_web_footer"
+                    },
+                    {
+                        "displayAs": "Sell on Nykaa",
+                        "redirectTo": "/sellonnykaa"
+                    }
+                ],
+                "Inspire Me": [
+                    {
+                        "displayAs": "Beauty Book",
+                        "redirectTo": "https://www.nykaa.com/beauty-blog/?utm_source=Desktop_web_footer"
+                    },
+                    {
+                        "displayAs": "Nykaa TV",
+                        "redirectTo": "https://nykaatv-web.nykaa.com/?utm_source=Desktop_web_footer"
+                    },
+                    {
+                        "displayAs": "Nykaa Network",
+                        "redirectTo": "https://www.nykaa.com/nykaa-network"
+                    },
+                    {
+                        "displayAs": "Buying Guides",
+                        "redirectTo": "https://www.nykaa.com/buying-guides/?utm_source=Desktop_web_footer"
+                    }
+                ],
+                "Quick Links": [
+                    {
+                        "displayAs": "Offer Zone",
+                        "redirectTo": "/sp/offers-native/offers?utm_source=Desktop_web_footer"
+                    },
+                    {
+                        "displayAs": "New Launches",
+                        "redirectTo": "/new-at-nykaa?utm_source=Desktop_web_footer"
+                    },
+                    {
+                        "displayAs": "Nykaa Man",
+                        "redirectTo": "https://www.nykaaman.com/?utm_source=Desktop_web_footer"
+                    },
+                    {
+                        "displayAs": "Nykaa Fashion",
+                        "redirectTo": "https://www.nykaafashion.com/?utm_source=Desktop_web_footer"
+                    },
+                    {
+                        "displayAs": "Nykaa Pro",
+                        "redirectTo": "/nykaa-pro?utm_source=Desktop_web_footer"
+                    }
+                ],
+                "Top Categories": [
+                    {
+                        "displayAs": "Makeup",
+                        "redirectTo": "/sp/makeup-native/makeup?root=nav_footer&utm_source=Desktop_web_footer"
+                    },
+                    {
+                        "displayAs": "Skin",
+                        "redirectTo": "/sp/skin-native/skin?root=nav_footer&utm_source=Desktop_web_footer"
+                    },
+                    {
+                        "displayAs": "Hair",
+                        "redirectTo": "/sp/hair-native/hair?root=nav_footer&utm_source=Desktop_web_footer"
+                    },
+                    {
+                        "displayAs": "Bath & Body",
+                        "redirectTo": "/sp/bath-and-body-native/bath-and-body?root=nav_footer&utm_source=Desktop_web_footer"
+                    },
+                    {
+                        "displayAs": "Appliances",
+                        "redirectTo": "/sp/appliances-native/appliances?utm_source=Desktop_web_footer"
+                    },
+                    {
+                        "displayAs": "Mom and Baby",
+                        "redirectTo": "/sp/mom-and-baby-native/mom-and-baby?root=nav_footer&utm_source=Desktop_web_footer"
+                    },
+                    {
+                        "displayAs": "Wellness",
+                        "redirectTo": "/sp/wellness-native/wellness?root=nav_footer&utm_source=Desktop_web_footer"
+                    },
+                    {
+                        "displayAs": "Fragrance",
+                        "redirectTo": "/sp/fragrance-native/fragrance-store?root=nav_footer&utm_source=Desktop_web_footer"
+                    },
+                    {
+                        "displayAs": "Natural",
+                        "redirectTo": "/sp/natural-native/natural?root=nav_1"
+                    },
+                    {
+                        "displayAs": "Luxe",
+                        "redirectTo": "/luxe-focus?root=nav_footer&utm_source=Desktop_web_footer"
+                    }
+                ]
+            },
+            "helpCenter": {
+                "imgUrl": "https://www.nykaa.com/media/wysiwyg/2020/helpCenter.svg",
+                "title": "HELP CENTER",
+                "link": "https://www.nykaa.com/gateway-api/omsApis/helpCenter?domain=NYKAA"
+            },
+            "VP": {
+                "apiKey": "AIzaSyBCiWco5cS6Uja2-642pPZl_Ed0lRROZc4",
+                "authDomain": "nykaa-android-1224.firebaseapp.com",
+                "databaseURL": "https://nykaa-android-1224.firebaseio.com",
+                "projectId": "nykaa-android-1224",
+                "storageBucket": "nykaa-android-1224.appspot.com",
+                "messagingSenderId": "1035734725184",
+                "appId": "1:1035734725184:web:cd91daa8cac5a2baa0e5a5",
+                "measurementId": "G-W9QPFFEM7C",
+                "doc": "api_prioritization",
+                "collection": "nykaa"
+            },
+            "ABV2": [
+                {
+                    "status": true,
+                    "sampleRate": {
+                        "from": 0,
+                        "to": 1
+                    },
+                    "experimentLayer": "AB_REVIEW",
+                    "id": "AB_REVIEW_PAGE",
+                    "nykaaUserVariant": "A",
+                    "isSSR": true,
+                    "variants": [
+                        {
+                            "name": "A",
+                            "sampleRate": {
+                                "from": 0,
+                                "to": 1
+                            }
+                        }
+                    ]
+                },
+                {
+                    "status": true,
+                    "sampleRate": {
+                        "from": 0,
+                        "to": 1
+                    },
+                    "experimentLayer": "AB_WISHLIST",
+                    "id": "AB_WISHLIST",
+                    "nykaaUserVariant": "A",
+                    "isSSR": true,
+                    "variants": [
+                        {
+                            "name": "A",
+                            "sampleRate": {
+                                "from": 0,
+                                "to": 1
+                            }
+                        }
+                    ]
+                },
+                {
+                    "status": true,
+                    "sampleRate": {
+                        "from": 0,
+                        "to": 1
+                    },
+                    "experimentLayer": "AB_MULTIPLE_COUPONS",
+                    "id": "ADP_RV_MULTI_COUPONS",
+                    "nykaaUserVariant": "A",
+                    "isSSR": true,
+                    "variants": [
+                        {
+                            "name": "A",
+                            "sampleRate": {
+                                "from": 0,
+                                "to": 1
+                            }
+                        }
+                    ]
+                },
+                {
+                    "status": false,
+                    "sampleRate": {
+                        "from": 0,
+                        "to": 1
+                    },
+                    "experimentLayer": "AB_DWEB_MULTICOUPON",
+                    "id": "AB_DWEB_MULTICOUPON",
+                    "nykaaUserVariant": "A",
+                    "isSSR": false,
+                    "variants": []
+                }
+            ],
+            "landingPageABConfig": {},
+            "plpPriceReveal": {
+                "status": false,
+                "categoryId": [],
+                "text": "SALE OFFER INSIDE",
+                "textColor": "#E80071",
+                "badgeColor": "#FDEBF4"
+            },
+            "sentrySampleRate": 0.1,
+            "newRelicSampleRate": 0.5,
+            "policies": [
+                {
+                    "title": "Terms & Conditions",
+                    "link": "/policy#terms-conditions"
+                },
+                {
+                    "title": "Shipping Policy",
+                    "link": "/policy#shipping-policy"
+                },
+                {
+                    "title": "Cancellation Policy",
+                    "link": "/policy#cancellation-and-return-policy"
+                },
+                {
+                    "title": "Privacy Policy",
+                    "link": "/policy#privacy-policy"
+                }
+            ],
+            "pdpWidgetConfig": {
+                "status": "1",
+                "algo": [
+                    {
+                        "cav": "p2v_v2"
+                    },
+                    {
+                        "cab": "p2v_v2"
+                    }
+                ]
+            },
+            "analyticsDelayTimer": 20000,
+            "analyticsExcludedEventNames": [],
+            "analyticsEventThreshold": 20,
+            "analyticsPublicKey": "",
+            "dnPaginationConfig": {
+                "bufferSize": 10,
+                "pageLimit": 10
+            },
+            "dynamicPriceRangeToastConfig": {
+                "enabled": true,
+                "timer": 4
+            },
+            "proWarningText": "Please limit address changes in your account. In case of frequent changes, Nykaa PRO reserves the right to discontinue your membership.",
+            "organizationSeoSchema": {
+                "name": "Nykaa",
+                "url": "https://www.nykaa.com",
+                "contact": "1800-267-4444",
+                "logo": "https://images-static.nykaa.com/media/favicon/default/nykaa_favicon_a.png",
+                "socialMedia": [
+                    "https://www.instagram.com/mynykaa/",
+                    "https://www.facebook.com/MyNykaa",
+                    "https://www.youtube.com/channel/UCoaH2UtB1PsV7av17woV1BA",
+                    "https://twitter.com/MyNykaa",
+                    "https://www.pinterest.com/mynykaa/"
+                ]
+            },
+            "deepSearchSeoSchema": {
+                "url": "https://www.nykaa.com",
+                "searchUrlTemplate": "https://www.nykaa.com/search/result/?q={search_term_string}",
+                "queryInput": "required name=search_term_string"
+            },
+            "wakeLockTimer": 0
+        }
+    },
+    "productQna": {
+        "error": false,
+        "QNA": []
+    },
+    "variants": {
+        "loading": false,
+        "isNotFound": false,
+        "isFetchingError": false,
+        "loadingProductId": "",
+        "data": []
+    },
+    "priceReveal": {
+        "items": [],
+        "error": null
+    },
+    "jsonLdData": [
+        {
+            "@context": "http://schema.org",
+            "@type": "Product",
+            "name": "Lakme Eyeconic Kajal - Twin Pack",
+            "image": "https://images-static.nykaa.com/media/catalog/product/tr:h-800,w-800,cm-pad_resize/6/f/6fc082bLAKME00000332_001new.jpg",
+            "mpn": "LAKME00000332",
+            "sku": "LAKME00000332",
+            "brand": "Lakme",
+            "description": "Lakme Eyeconic Kajal - Twin Pack",
+            "review": {
+                "@type": "Review",
+                "name": "Powdery substance ",
+                "author": "Any Sharma",
+                "datePublished": "2023-02-03",
+                "description": "Kajal pencil sticks have white powdery substance ",
+                "reviewRating": {
+                    "@type": "Rating",
+                    "ratingValue": 5,
+                    "bestRating": "5"
+                }
+            },
+            "offers": {
+                "@type": "Offer",
+                "price": 315,
+                "priceCurrency": "INR",
+                "availability": "InStock",
+                "url": "https://www.nykaa.com/lakme-eyeconic-kajal-twin-pack/p/3982605"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.5,
+                "ratingCount": 13788
+            }
+        },
+        {
+            "@context": "https://schema.org/",
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+                {
+                    "@type": "ListItem",
+                    "position": 1,
+                    "name": "Home",
+                    "item": "https://www.nykaa.com/"
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 2,
+                    "name": "Makeup",
+                    "item": "https://www.nykaa.com/makeup/c/12"
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 3,
+                    "name": "Eyes",
+                    "item": "https://www.nykaa.com/makeup/eyes/c/14"
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 4,
+                    "name": "Kajal",
+                    "item": "https://www.nykaa.com/makeup/eyes/kajal/c/687"
+                }
+            ]
+        }
+    ],
+    "homePage": {
+        "loading": false,
+        "isFetchingError": false,
+        "widgets": null,
+        "styles": {},
+        "metaData": {
+            "title": "",
+            "keywords": "",
+            "description": "",
+            "canonical": ""
+        },
+        "remaining_inventories_ids": [],
+        "queryParams": {}
+    },
+    "fitcode": {
+        "loading": false,
+        "isFetchingError": false,
+        "widgets": null
+    },
+    "categoryListing": {
+        "errorFetchingPage": false,
+        "loading": false,
+        "isFetchingError": false,
+        "isNotFound": false,
+        "pageNumber": 1,
+        "activeFilters": {},
+        "isFilterChanged": false,
+        "isPageChanged": false,
+        "serverError": false,
+        "widgets": [],
+        "activeSort": "",
+        "loadingPage": false,
+        "isClearAll": false,
+        "isEmptyRangeError": false,
+        "remaining_inventories_ids": [],
+        "queryParamsObject": {}
+    },
+    "footer": {
+        "priceList": {},
+        "aboutUs": {},
+        "categories": {}
+    },
+    "searchListingPage": {
+        "activeFilters": {},
+        "error": false,
+        "errorFetchingPage": false,
+        "isFilterChanged": false,
+        "isPageChanged": false,
+        "loading": false,
+        "loadingPage": false,
+        "pageNumber": 0,
+        "searchTerm": "",
+        "isClearAll": false,
+        "isEmptyRangeError": false
+    },
+    "pro": {
+        "loadingFirstFoldWidgets": false,
+        "firstFoldWidgetsError": false,
+        "loadingSecondFoldWidgets": false,
+        "secondFoldWidgetsError": false
+    },
+    "VP": {
+        "error": false,
+        "configs": {},
+        "message": "",
+        "scriptLoaded": false
+    },
+    "navigation": {},
+    "abExperiments": {
+        "AB_WISHLIST": "A",
+        "ADP_RV_MULTI_COUPONS": "A"
+    },
+    "proUserInfo": {
+        "personalInfo": null,
+        "businessInfo": null,
+        "businessAddress": null,
+        "savedAddress": [],
+        "documents": null,
+        "loading": false,
+        "status": null,
+        "isLoadingBasicInfo": false,
+        "isLoadingAddressInfo": false,
+        "isLoadingBusinessInfo": false,
+        "isLoadingTerms": false,
+        "isUploadingId": false,
+        "isUploadingPob": false,
+        "idFiles": null,
+        "certificateFiles": null,
+        "documentIdSuccess": false,
+        "documentPobSuccess": false,
+        "userInfoFetched": false
+    },
+    "getReviews": {
+        "Reviews": {
+            "reviews": [],
+            "sorts": [],
+            "filters": []
+        },
+        "isLoading": true,
+        "page": 1,
+        "sort": "",
+        "filter": [
+            "DEFAULT"
+        ],
+        "variants": [],
+        "reviewLeft": true,
+        "selectedVariants": []
+    },
+    "RECOProducts": {
+        "loading": false,
+        "isNotFound": false,
+        "isFetchingError": false,
+        "CAV": [],
+        "CAB": [],
+        "recoDataLoaded": false
+    },
+    "wishlistReducer": {
+        "loading": false,
+        "productIdsInWishlist": [],
+        "products": [],
+        "pageNumber": 1,
+        "stopFurtherCall": false
+    },
+    "couponReducer": {
+        "coupons": {
+            "data": [],
+            "isLoading": false,
+            "hasError": false
+        },
+        "collect": {
+            "isLoading": false,
+            "showCard": false,
+            "hasError": false,
+            "code": "",
+            "id": null
+        },
+        "couponDetails": {
+            "isLoading": false,
+            "hasError": false,
+            "data": null
+        },
+        "cartSnackbar": {
+            "autoAppliedText": "",
+            "isVisible": false,
+            "appliedCouponCodes": "",
+            "hasError": false
+        },
+        "sheet": {
+            "isVisible": false,
+            "type": ""
+        }
+    },
+    "myProfile": {
+        "dob": "",
+        "email": "",
+        "isEmailEditAllowed": false,
+        "firstName": "",
+        "gender": "",
+        "hideEmail": false,
+        "isEmailVerified": false,
+        "isPrive": 0,
+        "lastName": "",
+        "isMobileEditAllowed": true,
+        "mobileNumber": "",
+        "profilePic": "https://www.nykaa.com/assets/mobile/images/my_profile/default_avatar.svg",
+        "signUpSource": "",
+        "isMobileUnverified": false,
+        "userVersion": "",
+        "transformedAddressDetails": {
+            "prefix": "",
+            "firstName": "",
+            "lastName": "",
+            "mobile": "",
+            "country": "",
+            "state": "",
+            "postcode": "",
+            "setDefault": 0,
+            "street": "",
+            "isdCode": "",
+            "city": "",
+            "addressId": "",
+            "customerAddressId": ""
+        },
+        "transformedAddresses": [],
+        "isVerified": false
+    }
+}

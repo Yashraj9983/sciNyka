@@ -1,0 +1,1539 @@
+[
+    {
+        "name": "Lakme Eyeconic Kajal",
+        "price": 225,
+        "packSize": "0.35g",
+        "avail": "Available",
+        "variants": [
+            {
+                "name": "Classic Brown",
+                "avail": "Available",
+                "price": 225,
+                "packSize": "0.35g"
+            },
+            {
+                "name": "Royal Blue",
+                "avail": "Available",
+                "price": 225,
+                "packSize": "0.35g"
+            },
+            {
+                "name": "Turquoise",
+                "avail": "Available",
+                "price": 225,
+                "packSize": "0.35g"
+            },
+            {
+                "name": "Deep Black",
+                "avail": "Available",
+                "price": 185,
+                "packSize": "0.35gm"
+            },
+            {
+                "name": "Regal Green",
+                "avail": "Available",
+                "price": 225,
+                "packSize": "0.35g"
+            }
+        ]
+    },
+    {
+        "name": "Lakme 9 To 5 Eyeconic Liquid Liner",
+        "price": 221,
+        "packSize": "4.5ml",
+        "avail": "Available",
+        "variants": [
+            {
+                "name": "Intense Black",
+                "avail": "Available",
+                "price": 221,
+                "packSize": "4.5ml"
+            },
+            {
+                "name": "Intense Blue",
+                "avail": "Available",
+                "price": 275,
+                "packSize": "4.5ml"
+            },
+            {
+                "name": "Brown",
+                "avail": "Available",
+                "price": 275,
+                "packSize": "4.5ml"
+            },
+            {
+                "name": "Intense Green",
+                "avail": "Available",
+                "price": 275,
+                "packSize": "4.5ml"
+            }
+        ]
+    },
+    {
+        "name": "Lakme Eyeconic Kajal - Twin Pack",
+        "price": 305,
+        "packSize": "0.7gm",
+        "avail": "Available",
+        "variants": []
+    },
+    {
+        "name": "Lakme Sun Expert Ultra Matte SPF 40 Pa+++ Compact",
+        "price": 271,
+        "packSize": "7gm",
+        "avail": "Available",
+        "variants": []
+    },
+    {
+        "name": "Lakme Insta Eye Liner",
+        "price": 150,
+        "packSize": "9ml",
+        "avail": "Available",
+        "variants": [
+            {
+                "name": "Black",
+                "avail": "Available",
+                "price": 150,
+                "packSize": "9ml"
+            },
+            {
+                "name": "Blue",
+                "avail": "Available",
+                "price": 140,
+                "packSize": "9ml"
+            },
+            {
+                "name": "Golden",
+                "avail": "Available",
+                "price": 145,
+                "packSize": "9ml"
+            },
+            {
+                "name": "Green",
+                "avail": "Available",
+                "price": 140,
+                "packSize": "9ml"
+            }
+        ]
+    },
+    {
+        "name": "Lakme Absolute Skin Natural Mousse Mattreal Foundation",
+        "price": 718,
+        "packSize": "25g",
+        "avail": "Available",
+        "variants": [
+            {
+                "name": "Ivory Fair 01",
+                "avail": "Available",
+                "price": 718,
+                "packSize": "25g"
+            },
+            {
+                "name": "Almond Honey 06",
+                "avail": "Available",
+                "price": 718,
+                "packSize": "25g"
+            },
+            {
+                "name": "Golden Light 04",
+                "avail": "Available",
+                "price": 718,
+                "packSize": "25g"
+            },
+            {
+                "name": "Golden Medium 03",
+                "avail": "Available",
+                "price": 697,
+                "packSize": "25g"
+            },
+            {
+                "name": "Rose Fair 02",
+                "avail": "Available",
+                "price": 308,
+                "packSize": "25g"
+            },
+            {
+                "name": "Beige Honey 05",
+                "avail": "Available",
+                "price": 718,
+                "packSize": "25g"
+            },
+            {
+                "name": "Rick Walnut",
+                "avail": "Available",
+                "price": 825,
+                "packSize": "25g"
+            }
+        ]
+    },
+    {
+        "name": "Lakme Cushion Matte Lipstick",
+        "price": 267,
+        "packSize": "4.5 g",
+        "avail": "Available",
+        "variants": [
+            {
+                "name": "Red Kiss",
+                "avail": "Available",
+                "price": 267,
+                "packSize": "4.5 g"
+            },
+            {
+                "name": "Plum Obsession",
+                "avail": "Available",
+                "price": 245,
+                "packSize": "4.5gm"
+            },
+            {
+                "name": "Red Wine",
+                "avail": "Available",
+                "price": 267,
+                "packSize": "4.5 g"
+            },
+            {
+                "name": "Nude Toast",
+                "avail": "Available",
+                "price": 245,
+                "packSize": "4.5 g"
+            },
+            {
+                "name": "Burgundy Bloom",
+                "avail": "Available",
+                "price": 267,
+                "packSize": "4.5gm"
+            },
+            {
+                "name": "Brown Sugar",
+                "avail": "Available",
+                "price": 267,
+                "packSize": "4.5 g"
+            },
+            {
+                "name": "Pink Petal",
+                "avail": "Available",
+                "price": 267,
+                "packSize": "4.5 g"
+            },
+            {
+                "name": "Pink Unicorn",
+                "avail": "Available",
+                "price": 245,
+                "packSize": "4.5 g"
+            },
+            {
+                "name": "Pink Lily",
+                "avail": "Available",
+                "price": 245,
+                "packSize": "4.5 g"
+            },
+            {
+                "name": "Red Aurora",
+                "avail": "Available",
+                "price": 267,
+                "packSize": "4.5 g"
+            },
+            {
+                "name": "Red Ruby",
+                "avail": "Available",
+                "price": 245,
+                "packSize": "4.5gm"
+            },
+            {
+                "name": "Orange Blossom",
+                "avail": "Available",
+                "price": 245,
+                "packSize": "4.5 g"
+            },
+            {
+                "name": "Pink Prom",
+                "avail": "Available",
+                "price": 245,
+                "packSize": "4.5gm"
+            },
+            {
+                "name": "Red Blaze",
+                "avail": "Available",
+                "price": 267,
+                "packSize": "4.5 g"
+            },
+            {
+                "name": "Pink Date",
+                "avail": "Available",
+                "price": 267,
+                "packSize": "4.5gm"
+            },
+            {
+                "name": "Red Rose",
+                "avail": "Available",
+                "price": 267,
+                "packSize": "4.5 g"
+            },
+            {
+                "name": "Pink Candy",
+                "avail": "Available",
+                "price": 245,
+                "packSize": "4.5gm"
+            },
+            {
+                "name": "Orange Rush",
+                "avail": "Available",
+                "price": 267,
+                "packSize": "4.5gm"
+            },
+            {
+                "name": "Pink Summer",
+                "avail": "Available",
+                "price": 245,
+                "packSize": "4.5 g"
+            },
+            {
+                "name": "Mauve Envy",
+                "avail": "Available",
+                "price": 267,
+                "packSize": "4.5 g"
+            },
+            {
+                "name": "Red Crimson",
+                "avail": "Available",
+                "price": 245,
+                "packSize": "4.5 g"
+            },
+            {
+                "name": "Pink Caramel",
+                "avail": "Available",
+                "price": 245,
+                "packSize": "4.5 g"
+            },
+            {
+                "name": "Coral Summer",
+                "avail": "Available",
+                "price": 267,
+                "packSize": "4.5 g"
+            },
+            {
+                "name": "Brown Mocha",
+                "avail": "Available",
+                "price": 267,
+                "packSize": "4.5 g"
+            },
+            {
+                "name": "Purple Orchid",
+                "avail": "Available",
+                "price": 267,
+                "packSize": "4.5 g"
+            },
+            {
+                "name": "Purple Diamond",
+                "avail": "Available",
+                "price": 245,
+                "packSize": "4.5 g"
+            },
+            {
+                "name": "Pink Flamingo",
+                "avail": "Available",
+                "price": 267,
+                "packSize": "4.5 g"
+            },
+            {
+                "name": "Red Marsala",
+                "avail": "Available",
+                "price": 267,
+                "packSize": "4.5 g"
+            },
+            {
+                "name": "Pink Geranium",
+                "avail": "Available",
+                "price": 245,
+                "packSize": "4.5 g"
+            },
+            {
+                "name": "Red Orchid",
+                "avail": "Out of Stock",
+                "price": 226,
+                "packSize": "4.5gm"
+            },
+            {
+                "name": "Red Retro",
+                "avail": "Out of Stock",
+                "price": 233,
+                "packSize": "4.5 g"
+            },
+            {
+                "name": "Pink Blush",
+                "avail": "Out of Stock",
+                "price": 226,
+                "packSize": "4.5gm"
+            },
+            {
+                "name": "Pink Rose",
+                "avail": "Out of Stock",
+                "price": 226,
+                "packSize": "4.5 g"
+            },
+            {
+                "name": "Pink Ruby",
+                "avail": "Out of Stock",
+                "price": 226,
+                "packSize": "4.5gm"
+            }
+        ]
+    },
+    {
+        "name": "Lakme 9 To 5 Primer + Matte Perfect Cover Foundation",
+        "price": 341,
+        "packSize": "25ml",
+        "avail": "Available",
+        "variants": [
+            {
+                "name": "W120 Warm Creme",
+                "avail": "Available",
+                "price": 341,
+                "packSize": "25ml"
+            },
+            {
+                "name": "N340 Neutral Almond",
+                "avail": "Available",
+                "price": 341,
+                "packSize": "25ml"
+            },
+            {
+                "name": "W320 Warm Caramel",
+                "avail": "Available",
+                "price": 341,
+                "packSize": "25ml"
+            },
+            {
+                "name": "W160 Warm Sand",
+                "avail": "Available",
+                "price": 341,
+                "packSize": "25ml"
+            },
+            {
+                "name": "W180 Warm Natural",
+                "avail": "Available",
+                "price": 325,
+                "packSize": "25ml"
+            },
+            {
+                "name": "C390 Cool Cocoa",
+                "avail": "Available",
+                "price": 341,
+                "packSize": "25ml"
+            },
+            {
+                "name": "C140 Cool Rose",
+                "avail": "Available",
+                "price": 341,
+                "packSize": "25ml"
+            },
+            {
+                "name": "C100 Cool Ivory",
+                "avail": "Available",
+                "price": 325,
+                "packSize": "25ml"
+            },
+            {
+                "name": "Warm Wood",
+                "avail": "Available",
+                "price": 499,
+                "packSize": "25ml"
+            },
+            {
+                "name": "Neutral Light",
+                "avail": "Available",
+                "price": 499,
+                "packSize": "25ml"
+            },
+            {
+                "name": "Warm Light",
+                "avail": "Available",
+                "price": 499,
+                "packSize": "25ml"
+            },
+            {
+                "name": "Cool Mocha",
+                "avail": "Available",
+                "price": 499,
+                "packSize": "25ml"
+            },
+            {
+                "name": "N220 Neutral Medium",
+                "avail": "Available",
+                "price": 341,
+                "packSize": "25ml"
+            },
+            {
+                "name": "C280 Cool Tan",
+                "avail": "Available",
+                "price": 341,
+                "packSize": "25ml"
+            },
+            {
+                "name": "N260 Neutral Honey",
+                "avail": "Available",
+                "price": 341,
+                "packSize": "25ml"
+            },
+            {
+                "name": "C380 Cool Walnut",
+                "avail": "Available",
+                "price": 341,
+                "packSize": "25ml"
+            },
+            {
+                "name": "N360 Neutral Chestnut",
+                "avail": "Available",
+                "price": 341,
+                "packSize": "25ml"
+            },
+            {
+                "name": "N200 Neutral Nude",
+                "avail": "Available",
+                "price": 341,
+                "packSize": "25ml"
+            },
+            {
+                "name": "W240 Warm Beige",
+                "avail": "Available",
+                "price": 341,
+                "packSize": "25ml"
+            },
+            {
+                "name": "C300 Cool Cinnamon",
+                "avail": "Available",
+                "price": 341,
+                "packSize": "25ml"
+            }
+        ]
+    },
+    {
+        "name": "Lakme Sun Expert SPF 50 PA+++ Ultra Matte Lotion Sunscreen",
+        "price": 420,
+        "packSize": "100ml",
+        "avail": "Available",
+        "variants": [
+            {
+                "name": "Lakme Sun Expert SPF 50 PA+++ Ultra Matte Lotion Sunscreen",
+                "avail": "Available",
+                "price": 293,
+                "packSize": "50ml"
+            },
+            {
+                "name": "Lakme Sun Expert SPF 50 PA+++ Ultra Matte Lotion Sunscreen",
+                "avail": "Available",
+                "price": 420,
+                "packSize": "100ml"
+            }
+        ]
+    },
+    {
+        "name": "Lakme Lumi Skin Cream",
+        "price": 269,
+        "packSize": "30g",
+        "avail": "Available",
+        "variants": []
+    },
+    {
+        "name": "Lakme Complexion Care Face CC Cream",
+        "price": 306,
+        "packSize": "30g",
+        "avail": "Available",
+        "variants": [
+            {
+                "name": "Beige",
+                "avail": "Available",
+                "price": 306,
+                "packSize": "30g"
+            },
+            {
+                "name": "Honey",
+                "avail": "Available",
+                "price": 306,
+                "packSize": "30g"
+            },
+            {
+                "name": "Caramel",
+                "avail": "Available",
+                "price": 306,
+                "packSize": "30 g"
+            },
+            {
+                "name": "Bronze",
+                "avail": "Available",
+                "price": 306,
+                "packSize": "30g"
+            },
+            {
+                "name": "Almond",
+                "avail": "Available",
+                "price": 306,
+                "packSize": "30g"
+            },
+            {
+                "name": "Frappe",
+                "avail": "Available",
+                "price": 306,
+                "packSize": "30 g"
+            }
+        ]
+    },
+    {
+        "name": "Lakme 9 to 5 Weightless Mousse Foundation",
+        "price": 423,
+        "packSize": "25g",
+        "avail": "Available",
+        "variants": [
+            {
+                "name": "Rose Ivory",
+                "avail": "Available",
+                "price": 423,
+                "packSize": "25g"
+            },
+            {
+                "name": "Beige Vanilla",
+                "avail": "Available",
+                "price": 423,
+                "packSize": "25g"
+            },
+            {
+                "name": "Warm Mocha",
+                "avail": "Available",
+                "price": 585,
+                "packSize": "25g"
+            },
+            {
+                "name": "Beige Caramel",
+                "avail": "Available",
+                "price": 423,
+                "packSize": "25g"
+            },
+            {
+                "name": "Caramel",
+                "avail": "Out of Stock",
+                "price": 585,
+                "packSize": "25g"
+            },
+            {
+                "name": "Toffee",
+                "avail": "Out of Stock",
+                "price": 585,
+                "packSize": "25g"
+            },
+            {
+                "name": "Nude Brown",
+                "avail": "Out of Stock",
+                "price": 575,
+                "packSize": "25g"
+            },
+            {
+                "name": "Natural Sand",
+                "avail": "Out of Stock",
+                "price": 575,
+                "packSize": "25g"
+            },
+            {
+                "name": "Rose Honey",
+                "avail": "Out of Stock",
+                "price": 374,
+                "packSize": "25g"
+            }
+        ]
+    },
+    {
+        "name": "Lakme Lumi Skin Cream",
+        "price": 467,
+        "packSize": "60g",
+        "avail": "Available",
+        "variants": [
+            {
+                "name": "Lakme Lumi Skin Cream",
+                "avail": "Available",
+                "price": 269,
+                "packSize": "30g"
+            },
+            {
+                "name": "Lakme Lumi Skin",
+                "avail": "Available",
+                "price": 467,
+                "packSize": "60g"
+            }
+        ]
+    },
+    {
+        "name": "Lakme 9 To 5 Primer + Matte Lipstick",
+        "price": 385,
+        "packSize": "3.6g",
+        "avail": "Available",
+        "variants": [
+            {
+                "name": "MP8 Rosy Sunday",
+                "avail": "Available",
+                "price": 385,
+                "packSize": "3.6g"
+            },
+            {
+                "name": "MM3 Sangria Weekend",
+                "avail": "Available",
+                "price": 385,
+                "packSize": "3.6g"
+            },
+            {
+                "name": "Red Twist",
+                "avail": "Available",
+                "price": 385,
+                "packSize": "3.6gm"
+            },
+            {
+                "name": "Burgundy Passion",
+                "avail": "Available",
+                "price": 385,
+                "packSize": "3.6gm"
+            },
+            {
+                "name": "Blush Pink",
+                "avail": "Available",
+                "price": 385,
+                "packSize": "3.6gm"
+            },
+            {
+                "name": "Iconic Red",
+                "avail": "Available",
+                "price": 385,
+                "packSize": "3.6gm"
+            },
+            {
+                "name": "MR4 Roseatte Red",
+                "avail": "Available",
+                "price": 385,
+                "packSize": "3.6g"
+            },
+            {
+                "name": "MP9 Nude Touch",
+                "avail": "Available",
+                "price": 385,
+                "packSize": "3.6g"
+            },
+            {
+                "name": "MR3 Red Rust",
+                "avail": "Available",
+                "price": 385,
+                "packSize": "3.6g"
+            },
+            {
+                "name": "MP5 Maroon Mix",
+                "avail": "Available",
+                "price": 385,
+                "packSize": "3.6g"
+            },
+            {
+                "name": "MP2 Ruby Rush",
+                "avail": "Available",
+                "price": 385,
+                "packSize": "3.6g"
+            },
+            {
+                "name": "Coffee Command",
+                "avail": "Available",
+                "price": 385,
+                "packSize": "3.6gm"
+            },
+            {
+                "name": "Rose Day",
+                "avail": "Available",
+                "price": 385,
+                "packSize": "3.6gm"
+            },
+            {
+                "name": "Scarlet Surge",
+                "avail": "Available",
+                "price": 368,
+                "packSize": "3.6gm"
+            },
+            {
+                "name": "MP6 Deep Wine",
+                "avail": "Available",
+                "price": 385,
+                "packSize": "3.6g"
+            },
+            {
+                "name": "Pink Rose",
+                "avail": "Available",
+                "price": 385,
+                "packSize": "3.6gm"
+            },
+            {
+                "name": "MB1 Chocolate Crush",
+                "avail": "Available",
+                "price": 385,
+                "packSize": "3.6g"
+            },
+            {
+                "name": "MB2 Caramel Latte",
+                "avail": "Available",
+                "price": 385,
+                "packSize": "3.6g"
+            },
+            {
+                "name": "MM1 Mauve Matter",
+                "avail": "Available",
+                "price": 385,
+                "packSize": "3.6g"
+            },
+            {
+                "name": "Peachy Affair",
+                "avail": "Available",
+                "price": 385,
+                "packSize": "3.6gm"
+            },
+            {
+                "name": "Brown Walnut",
+                "avail": "Available",
+                "price": 385,
+                "packSize": "3.6gm"
+            },
+            {
+                "name": "Rustic Brown",
+                "avail": "Available",
+                "price": 385,
+                "packSize": "3.6gm"
+            },
+            {
+                "name": "MR5 Berry Base",
+                "avail": "Available",
+                "price": 385,
+                "packSize": "3.6g"
+            },
+            {
+                "name": "MR2 Red Coat",
+                "avail": "Available",
+                "price": 385,
+                "packSize": "3.6g"
+            },
+            {
+                "name": "MP1 Pink Perfect",
+                "avail": "Available",
+                "price": 385,
+                "packSize": "3.6g"
+            },
+            {
+                "name": "MP3 Pink Party",
+                "avail": "Available",
+                "price": 385,
+                "packSize": "3.6g"
+            },
+            {
+                "name": "MP4 Plum Pick",
+                "avail": "Available",
+                "price": 385,
+                "packSize": "3.6g"
+            },
+            {
+                "name": "Dusty Pink",
+                "avail": "Available",
+                "price": 385,
+                "packSize": "3.6gm"
+            },
+            {
+                "name": "MR1 Red Letter",
+                "avail": "Available",
+                "price": 385,
+                "packSize": "3.6g"
+            },
+            {
+                "name": "MR6 Coral Date",
+                "avail": "Available",
+                "price": 368,
+                "packSize": "3.6g"
+            },
+            {
+                "name": "MP7 Blushing Nude",
+                "avail": "Available",
+                "price": 385,
+                "packSize": "3.6g"
+            },
+            {
+                "name": "Cherry Chic",
+                "avail": "Available",
+                "price": 385,
+                "packSize": "3.6gm"
+            },
+            {
+                "name": "MM2 Garnet Punch",
+                "avail": "Available",
+                "price": 385,
+                "packSize": "3.6g"
+            },
+            {
+                "name": "Brick Blush",
+                "avail": "Available",
+                "price": 385,
+                "packSize": "3.6gm"
+            },
+            {
+                "name": "Red Velvet",
+                "avail": "Available",
+                "price": 385,
+                "packSize": "3.6gm"
+            }
+        ]
+    },
+    {
+        "name": "Lakme Forever Matte Liquid Lip Color",
+        "price": 286,
+        "packSize": "5.6ml",
+        "avail": "Available",
+        "variants": [
+            {
+                "name": "Nude Dream",
+                "avail": "Available",
+                "price": 286,
+                "packSize": "5.6ml"
+            },
+            {
+                "name": "Pink Ballet",
+                "avail": "Available",
+                "price": 286,
+                "packSize": "5.6ml"
+            },
+            {
+                "name": "Fuschia Chic",
+                "avail": "Available",
+                "price": 286,
+                "packSize": "5.6ml"
+            },
+            {
+                "name": "Coral Sense",
+                "avail": "Available",
+                "price": 286,
+                "packSize": "5.6ml"
+            },
+            {
+                "name": "Mauve Ecstasy",
+                "avail": "Available",
+                "price": 286,
+                "packSize": "5.6ml"
+            },
+            {
+                "name": "Wine Touch",
+                "avail": "Available",
+                "price": 286,
+                "packSize": "5.6ml"
+            },
+            {
+                "name": "Purple Pout",
+                "avail": "Available",
+                "price": 286,
+                "packSize": "5.6ml"
+            },
+            {
+                "name": "Nude Pink",
+                "avail": "Available",
+                "price": 242,
+                "packSize": "5.6ml"
+            },
+            {
+                "name": "Crimson Rose",
+                "avail": "Available",
+                "price": 286,
+                "packSize": "5.6ml"
+            },
+            {
+                "name": "Red Carpet",
+                "avail": "Available",
+                "price": 286,
+                "packSize": "5.6ml"
+            },
+            {
+                "name": "Mauve Fling",
+                "avail": "Available",
+                "price": 286,
+                "packSize": "5.6ml"
+            },
+            {
+                "name": "Red Velvet",
+                "avail": "Available",
+                "price": 286,
+                "packSize": "5.6ml"
+            },
+            {
+                "name": "39 Mauve Petal",
+                "avail": "Available",
+                "price": 349,
+                "packSize": "5.6ml"
+            },
+            {
+                "name": "33 Pink Parfait",
+                "avail": "Available",
+                "price": 349,
+                "packSize": "5.6ml"
+            },
+            {
+                "name": "37 Red Berry",
+                "avail": "Available",
+                "price": 349,
+                "packSize": "5.6ml"
+            },
+            {
+                "name": "38 Red Candy",
+                "avail": "Available",
+                "price": 349,
+                "packSize": "5.6ml"
+            },
+            {
+                "name": "40 Rich Mahogany",
+                "avail": "Available",
+                "price": 349,
+                "packSize": "5.6ml"
+            },
+            {
+                "name": "Nude Myth",
+                "avail": "Available",
+                "price": 286,
+                "packSize": "5.6ml"
+            },
+            {
+                "name": "31 Cherry Love",
+                "avail": "Available",
+                "price": 349,
+                "packSize": "5.6ml"
+            },
+            {
+                "name": "32 Pink Floss",
+                "avail": "Available",
+                "price": 349,
+                "packSize": "5.6ml"
+            },
+            {
+                "name": "34 Brown Sheer",
+                "avail": "Available",
+                "price": 349,
+                "packSize": "5.6ml"
+            },
+            {
+                "name": "35 Rose Wood",
+                "avail": "Available",
+                "price": 349,
+                "packSize": "5.6ml"
+            },
+            {
+                "name": "36 Nude Charm",
+                "avail": "Available",
+                "price": 349,
+                "packSize": "5.6ml"
+            },
+            {
+                "name": "Pink Prom",
+                "avail": "Available",
+                "price": 262,
+                "packSize": "5.6ml"
+            },
+            {
+                "name": "Wine Glow",
+                "avail": "Available",
+                "price": 286,
+                "packSize": "5.6ml"
+            },
+            {
+                "name": "Pink Trip",
+                "avail": "Available",
+                "price": 262,
+                "packSize": "5.6ml"
+            },
+            {
+                "name": "Pink Peach",
+                "avail": "Available",
+                "price": 286,
+                "packSize": "5.6ml"
+            },
+            {
+                "name": "Brown Espresso",
+                "avail": "Available",
+                "price": 286,
+                "packSize": "5.6ml"
+            },
+            {
+                "name": "Red Cherry",
+                "avail": "Available",
+                "price": 262,
+                "packSize": "5.6ml"
+            },
+            {
+                "name": "Orange Tango",
+                "avail": "Available",
+                "price": 286,
+                "packSize": "5.6ml"
+            },
+            {
+                "name": "Mauve Party",
+                "avail": "Available",
+                "price": 286,
+                "packSize": "5.6ml"
+            },
+            {
+                "name": "Nude Twist",
+                "avail": "Available",
+                "price": 286,
+                "packSize": "5.6ml"
+            },
+            {
+                "name": "Pink Punch",
+                "avail": "Available",
+                "price": 286,
+                "packSize": "5.6ml"
+            },
+            {
+                "name": "Red Sangria",
+                "avail": "Available",
+                "price": 286,
+                "packSize": "5.6ml"
+            },
+            {
+                "name": "Red Revival",
+                "avail": "Available",
+                "price": 262,
+                "packSize": "5.6ml"
+            },
+            {
+                "name": "Nude Latte",
+                "avail": "Available",
+                "price": 286,
+                "packSize": "5.6ml"
+            },
+            {
+                "name": "Nude Hue",
+                "avail": "Available",
+                "price": 286,
+                "packSize": "5.6ml"
+            },
+            {
+                "name": "Red Wine",
+                "avail": "Available",
+                "price": 262,
+                "packSize": "5.6ml"
+            },
+            {
+                "name": "Coral Candy",
+                "avail": "Available",
+                "price": 286,
+                "packSize": "5.6ml"
+            },
+            {
+                "name": "Pink Glam",
+                "avail": "Available",
+                "price": 286,
+                "packSize": "5.6ml"
+            },
+            {
+                "name": "Lakme Forever Matte Liquid Lip Color- Red Drive",
+                "avail": "Out of Stock",
+                "price": 349,
+                "packSize": "5.6ml"
+            },
+            {
+                "name": "Lakme Forever Matte Liquid Lip Color- Pink Vintage",
+                "avail": "Out of Stock",
+                "price": 349,
+                "packSize": "5.6ml"
+            },
+            {
+                "name": "Lakme Forever Matte Liquid Lip Color- Red Icon",
+                "avail": "Out of Stock",
+                "price": 349,
+                "packSize": "5.6ml"
+            },
+            {
+                "name": "Lakme Forever Matte Liquid Lip Color- Brown Vixen",
+                "avail": "Out of Stock",
+                "price": 349,
+                "packSize": "5.6ml"
+            },
+            {
+                "name": "Lakme Forever Matte Liquid Lip Color- Red Divine",
+                "avail": "Out of Stock",
+                "price": 349,
+                "packSize": "5.6ml"
+            },
+            {
+                "name": "Lakme Forever Matte Liquid Lip Color- Color Nude Bloom",
+                "avail": "Out of Stock",
+                "price": 349,
+                "packSize": "5.6ml"
+            },
+            {
+                "name": "Lakme Forever Matte Liquid Lip Color- Pink Dusk",
+                "avail": "Out of Stock",
+                "price": 349,
+                "packSize": "5.6ml"
+            },
+            {
+                "name": "Lakme Forever Matte Liquid Lip Color- Pink Venus",
+                "avail": "Out of Stock",
+                "price": 349,
+                "packSize": "5.6ml"
+            },
+            {
+                "name": "Lakme Forever Matte Liquid Lip Color- Pink Salt",
+                "avail": "Out of Stock",
+                "price": 349,
+                "packSize": "5.6ml"
+            },
+            {
+                "name": "Lakme Forever Matte Liquid Lip Color- Color Nude Perk",
+                "avail": "Out of Stock",
+                "price": 349,
+                "packSize": "5.6ml"
+            }
+        ]
+    },
+    {
+        "name": "Lakme Turn Heads Collection",
+        "price": 875,
+        "packSize": "3 pcs",
+        "avail": "Available",
+        "variants": []
+    },
+    {
+        "name": "Lakme Absolute Blur Perfect Makeup Primer",
+        "price": 578,
+        "packSize": "30g",
+        "avail": "Available",
+        "variants": [
+            {
+                "name": "Lakme Absolute Blur Perfect Makeup Primer",
+                "avail": "Available",
+                "price": 578,
+                "packSize": "30g"
+            },
+            {
+                "name": "Mini",
+                "avail": "Available",
+                "price": 269,
+                "packSize": "10g"
+            }
+        ]
+    },
+    {
+        "name": "Lakme Absolute Facelift Palette",
+        "price": 855,
+        "packSize": "15 g",
+        "avail": "Available",
+        "variants": [
+            {
+                "name": "Sunkissed Glow",
+                "avail": "Available",
+                "price": 855,
+                "packSize": "15 g"
+            },
+            {
+                "name": "Golden Hour",
+                "avail": "Available",
+                "price": 855,
+                "packSize": "15 g"
+            }
+        ]
+    },
+    {
+        "name": "Lakme 9 to 5 Weightless Matte Mousse Lip & Cheek Color",
+        "price": 529,
+        "packSize": "9gm",
+        "avail": "Available",
+        "variants": [
+            {
+                "name": "Blush Velvet",
+                "avail": "Available",
+                "price": 529,
+                "packSize": "9gm"
+            },
+            {
+                "name": "Nude Cushion",
+                "avail": "Available",
+                "price": 529,
+                "packSize": "9g"
+            },
+            {
+                "name": "Crimson Silk",
+                "avail": "Available",
+                "price": 529,
+                "packSize": "9gm"
+            },
+            {
+                "name": "Rose Touch",
+                "avail": "Available",
+                "price": 529,
+                "packSize": "9gm"
+            },
+            {
+                "name": "Burgundy Lush",
+                "avail": "Available",
+                "price": 529,
+                "packSize": "9gm"
+            },
+            {
+                "name": "Plum Feather",
+                "avail": "Available",
+                "price": 529,
+                "packSize": "9gm"
+            },
+            {
+                "name": "Coffee Lite",
+                "avail": "Available",
+                "price": 493,
+                "packSize": "9gm"
+            },
+            {
+                "name": "Cocoa Soft",
+                "avail": "Available",
+                "price": 511,
+                "packSize": "9gm"
+            },
+            {
+                "name": "Brick Bloom",
+                "avail": "Available",
+                "price": 511,
+                "packSize": "9g"
+            },
+            {
+                "name": "Rouge Satin",
+                "avail": "Out of Stock",
+                "price": 675,
+                "packSize": "9gm"
+            },
+            {
+                "name": "Chocolate Mousse",
+                "avail": "Out of Stock",
+                "price": 675,
+                "packSize": "9g"
+            },
+            {
+                "name": "Fuchsia Suede",
+                "avail": "Out of Stock",
+                "price": 675,
+                "packSize": "9gm"
+            },
+            {
+                "name": "Rosy Plum",
+                "avail": "Out of Stock",
+                "price": 529,
+                "packSize": "9g"
+            }
+        ]
+    },
+    {
+        "name": "Lakme 9 to 5 Primer + Matte Powder Foundation Compact",
+        "price": 420,
+        "packSize": "9gm",
+        "avail": "Available",
+        "variants": [
+            {
+                "name": "Ivory Cream",
+                "avail": "Available",
+                "price": 420,
+                "packSize": "9gm"
+            },
+            {
+                "name": "Silky Golden",
+                "avail": "Available",
+                "price": 420,
+                "packSize": "9gm"
+            },
+            {
+                "name": "Natural Cream / Light",
+                "avail": "Available",
+                "price": 420,
+                "packSize": "9gm"
+            },
+            {
+                "name": "Natural Almond",
+                "avail": "Available",
+                "price": 403,
+                "packSize": "9gm"
+            },
+            {
+                "name": "Honey Dew",
+                "avail": "Available",
+                "price": 420,
+                "packSize": "9gm"
+            },
+            {
+                "name": "Rose Silk",
+                "avail": "Available",
+                "price": 420,
+                "packSize": "9gm"
+            }
+        ]
+    },
+    {
+        "name": "Lakme Absolute Lip Mousse",
+        "price": 618,
+        "packSize": "4.6 g",
+        "avail": "Available",
+        "variants": [
+            {
+                "name": "304 Chocolate Temptation",
+                "avail": "Available",
+                "price": 618,
+                "packSize": "4.6 g"
+            },
+            {
+                "name": "302 Cocoa Sin",
+                "avail": "Available",
+                "price": 618,
+                "packSize": "4.6 g"
+            },
+            {
+                "name": "303 Nude Naturalle",
+                "avail": "Available",
+                "price": 618,
+                "packSize": "4.6 g"
+            },
+            {
+                "name": "202 Pink Veil",
+                "avail": "Available",
+                "price": 618,
+                "packSize": "4.6 g"
+            },
+            {
+                "name": "102 Crimson Sky",
+                "avail": "Available",
+                "price": 618,
+                "packSize": "4.6 g"
+            },
+            {
+                "name": "205 Mauve Mischief",
+                "avail": "Available",
+                "price": 618,
+                "packSize": "4.6 g"
+            },
+            {
+                "name": "204 Fuchsia Fantasy",
+                "avail": "Available",
+                "price": 618,
+                "packSize": "4.6 g"
+            },
+            {
+                "name": "103 Dark Cherry",
+                "avail": "Available",
+                "price": 618,
+                "packSize": "4.6 g"
+            },
+            {
+                "name": "301 Nude Sensation",
+                "avail": "Available",
+                "price": 618,
+                "packSize": "4.6 g"
+            },
+            {
+                "name": "203 Plum Punch",
+                "avail": "Out of Stock",
+                "price": 618,
+                "packSize": "4.6 g"
+            },
+            {
+                "name": "201 Purple Haze",
+                "avail": "Out of Stock",
+                "price": 618,
+                "packSize": "4.6 g"
+            }
+        ]
+    },
+    {
+        "name": "Lakme Absolute Perfect Radiance Skin Brightening Day Creme",
+        "price": 399,
+        "packSize": "100g",
+        "avail": "Available",
+        "variants": [
+            {
+                "name": "Lakme Absolute Perfect Radiance Skin Brightening Day Creme",
+                "avail": "Available",
+                "price": 297,
+                "packSize": "50g"
+            },
+            {
+                "name": "Lakme Absolute Perfect Radiance Skin Brightening Day Creme",
+                "avail": "Available",
+                "price": 110,
+                "packSize": "15g"
+            },
+            {
+                "name": "Lakme Absolute Perfect Radiance Skin Brightening Day Creme",
+                "avail": "Available",
+                "price": 213,
+                "packSize": "28g"
+            },
+            {
+                "name": "Lakme Absolute Perfect Radiance Brightening Day Creme With Refill Pack",
+                "avail": "Available",
+                "price": 399,
+                "packSize": "100g"
+            }
+        ]
+    },
+    {
+        "name": "Lakme Eyeconic Power Pack Combo",
+        "price": 868,
+        "packSize": "3 pcs",
+        "avail": "Available",
+        "variants": []
+    },
+    {
+        "name": "Lakme Absolute Explore Eye Shadow Stick",
+        "price": 713,
+        "packSize": "1.4 g",
+        "avail": "Available",
+        "variants": [
+            {
+                "name": "Subtle Pink",
+                "avail": "Available",
+                "price": 713,
+                "packSize": "1.4 g"
+            },
+            {
+                "name": "Blue Orchid",
+                "avail": "Available",
+                "price": 713,
+                "packSize": "1.4 g"
+            },
+            {
+                "name": "Jaded Grey",
+                "avail": "Available",
+                "price": 713,
+                "packSize": "1.4 g"
+            },
+            {
+                "name": "Hawaian Pink",
+                "avail": "Available",
+                "price": 713,
+                "packSize": "1.4 g"
+            },
+            {
+                "name": "Aquamarine",
+                "avail": "Available",
+                "price": 713,
+                "packSize": "1.4 g"
+            },
+            {
+                "name": "Sunset Gold",
+                "avail": "Available",
+                "price": 713,
+                "packSize": "1.4 g"
+            },
+            {
+                "name": "Umber",
+                "avail": "Available",
+                "price": 713,
+                "packSize": "1.4 g"
+            },
+            {
+                "name": "Champagne",
+                "avail": "Available",
+                "price": 713,
+                "packSize": "1.4 g"
+            },
+            {
+                "name": "Shimmering Gold",
+                "avail": "Available",
+                "price": 713,
+                "packSize": "1.4 g"
+            }
+        ]
+    }
+]
